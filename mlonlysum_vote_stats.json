@@ -1,0 +1,4143 @@
+[
+  {
+    "task_id": 204,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "artificial intelligence": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 205,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "yapay zekâ": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 206,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 207,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 210,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 211,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {
+      "accuracy": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      }
+    }
+  },
+  {
+    "task_id": 212,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "GAN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "Generative Adversarial Networks": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 213,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "GAN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 216,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 217,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 218,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "LBPH": {
+        "votes": 5,
+        "threshold": 2,
+        "accepted": true
+      },
+      "Local Binary Patterns Histograms": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 219,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "LBPH": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "Yerel İkili Desenler Histogramları": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 220,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 221,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 222,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 223,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 224,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 225,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 226,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 227,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 228,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "DSS": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 229,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 230,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "Hyperparameter optimization": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 231,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "Hiper parametre optimizasyonu": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 232,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 233,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "K-Means kümeleme": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      },
+      "K-Means": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      }
+    }
+  },
+  {
+    "task_id": 238,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "ML": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 239,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 240,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 241,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "SVM": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 242,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "ANN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 243,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "YSA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 244,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "fuzzy logic model": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      },
+      "fuzzy logic": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      }
+    }
+  },
+  {
+    "task_id": 245,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "bulanık mantık modeli": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      },
+      "bulanık mantık": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      }
+    }
+  },
+  {
+    "task_id": 246,
+    "n_annotators": 4,
+    "n_winning_pairs": 5,
+    "term_votes": {
+      "ANNs": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MAPE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MAE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MSE": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RMSE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 247,
+    "n_annotators": 4,
+    "n_winning_pairs": 5,
+    "term_votes": {
+      "YSA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "OMYH": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "OMH": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "OKH": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "OKHK": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 248,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "CNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 249,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "ESA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 254,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 255,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 258,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "MSE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MC": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 259,
+    "n_annotators": 4,
+    "n_winning_pairs": 3,
+    "term_votes": {
+      "ÇDB": {
+        "votes": 5,
+        "threshold": 2,
+        "accepted": true
+      },
+      "HKO": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "Çoklu doğrusal bağlantı": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 260,
+    "n_annotators": 4,
+    "n_winning_pairs": 6,
+    "term_votes": {
+      "MSE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RMSE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MAE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "ML": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "NN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "R2": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 261,
+    "n_annotators": 4,
+    "n_winning_pairs": 6,
+    "term_votes": {
+      "ML": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "NN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MSE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RMSE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MAE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "R2": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 262,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 263,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 264,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "RNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 265,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "RNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 266,
+    "n_annotators": 4,
+    "n_winning_pairs": 5,
+    "term_votes": {
+      "RNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "SAE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "GANs": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      },
+      "LSTM-RNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "CNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "(GANs": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      },
+      "GAN": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      }
+    }
+  },
+  {
+    "task_id": 267,
+    "n_annotators": 4,
+    "n_winning_pairs": 5,
+    "term_votes": {
+      "CNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "SAE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "GAN": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      },
+      "LSTM-RNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "GAN&#039;lar": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      }
+    }
+  },
+  {
+    "task_id": 268,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 269,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 270,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "CNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 271,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "ESA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 272,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 273,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 274,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 275,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 276,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 277,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 278,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 279,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 280,
+    "n_annotators": 4,
+    "n_winning_pairs": 6,
+    "term_votes": {
+      "LR": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "SVR": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "R2": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RMSE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MSE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MAE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 281,
+    "n_annotators": 4,
+    "n_winning_pairs": 6,
+    "term_votes": {
+      "LR": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "GSR": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "R2": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RMSE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MSE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MAE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 284,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 285,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 286,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 287,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "CNN": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 288,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "CNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 289,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "CNN": {
+        "votes": 6,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RNN": {
+        "votes": 6,
+        "threshold": 2,
+        "accepted": true
+      },
+      "Recurrent Neural Network": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      }
+    }
+  },
+  {
+    "task_id": 290,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 291,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 292,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "SAE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 293,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "YOK": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 294,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 295,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 296,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 297,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 298,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 299,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 300,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 301,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 304,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 305,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 312,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 313,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 314,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "ESA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 315,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "ESA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 316,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "SVM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 317,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "DVM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 318,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 319,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 320,
+    "n_annotators": 4,
+    "n_winning_pairs": 3,
+    "term_votes": {
+      "AI": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "DL": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "LSTM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 321,
+    "n_annotators": 4,
+    "n_winning_pairs": 3,
+    "term_votes": {
+      "SVM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "XGBoost": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "LSTM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 322,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "data mining": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      },
+      "EDM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 323,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "EVM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 326,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 327,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 328,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "DNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 329,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "DNN": {
+        "votes": 7,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 334,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "BLSTM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 335,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "BLSTM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 336,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 337,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 338,
+    "n_annotators": 4,
+    "n_winning_pairs": 4,
+    "term_votes": {
+      "NN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "k-NN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "NB": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RF": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 339,
+    "n_annotators": 4,
+    "n_winning_pairs": 4,
+    "term_votes": {
+      "NN": {
+        "votes": 7,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RF": {
+        "votes": 7,
+        "threshold": 2,
+        "accepted": true
+      },
+      "k-NN": {
+        "votes": 7,
+        "threshold": 2,
+        "accepted": true
+      },
+      "NB": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 340,
+    "n_annotators": 4,
+    "n_winning_pairs": 5,
+    "term_votes": {
+      "NB": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "SVM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "DT": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RF": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "ANN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 341,
+    "n_annotators": 4,
+    "n_winning_pairs": 4,
+    "term_votes": {
+      "DVM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "KA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RO": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "YSA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 342,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 343,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "YZ": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 344,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "Artificial neural networks": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      },
+      "Artificial neural network": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      }
+    }
+  },
+  {
+    "task_id": 345,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "Yapay sinir ağları": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 346,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 347,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 348,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 349,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 350,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 351,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 352,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 353,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 358,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "ANN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MAE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 359,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "OMH": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "YSA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 360,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 361,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 370,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "SVM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RO": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 371,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "DVM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RO": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 372,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 373,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 374,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 375,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 376,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 377,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 380,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 381,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 388,
+    "n_annotators": 4,
+    "n_winning_pairs": 5,
+    "term_votes": {
+      "1D-CNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "CART": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "GBM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RF": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "LDA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 389,
+    "n_annotators": 4,
+    "n_winning_pairs": 5,
+    "term_votes": {
+      "1D-CNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RF": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "GBM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "LDA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "CART": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 390,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "R-CNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "CNN": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      }
+    }
+  },
+  {
+    "task_id": 391,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "B-ESA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "ESA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 398,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "WHO": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      },
+      "BES)": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      },
+      "GWO": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 399,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 402,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "RF": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "ANN": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 403,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "RF": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "ANN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 404,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "AI": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 405,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "AI": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "Recurrent Neural network": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      },
+      "Feed Forward Neural Network": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      },
+      "Long-Short Term Memory": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      },
+      "Gated Recurrent Units": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      }
+    }
+  },
+  {
+    "task_id": 408,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "ANNs": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "ANN-LS": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 409,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "YSA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "YSA-LS": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      }
+    }
+  },
+  {
+    "task_id": 410,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 411,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 412,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 413,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "YSA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 414,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 415,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 420,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 421,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 424,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "PAM": {
+        "votes": 6,
+        "threshold": 2,
+        "accepted": true
+      },
+      "polygon area metric": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 425,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "PAM": {
+        "votes": 6,
+        "threshold": 2,
+        "accepted": true
+      },
+      "poligon alan metriği": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 426,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 427,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 430,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "IoU": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 431,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "IoU": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 432,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 433,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 434,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "AI": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 435,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "AI": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 440,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 441,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 450,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 451,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 452,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 453,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 454,
+    "n_annotators": 4,
+    "n_winning_pairs": 4,
+    "term_votes": {
+      "RMSE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "NSE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "PBIAS)": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      },
+      "MAPE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "PBIAS": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 455,
+    "n_annotators": 4,
+    "n_winning_pairs": 4,
+    "term_votes": {
+      "KOKH": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "OMYH": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "NSE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "PBIAS": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 456,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "ANN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 457,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "YSA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 460,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "CNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 461,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "CNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 462,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 463,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 464,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 465,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 466,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 467,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 468,
+    "n_annotators": 4,
+    "n_winning_pairs": 3,
+    "term_votes": {
+      "ANNs": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "AI": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MSE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 469,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 472,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 473,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 474,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "DGCNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 475,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "DGCNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 476,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "ANN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 477,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 478,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 479,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 480,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 481,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 484,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "MAPE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 485,
+    "n_annotators": 4,
+    "n_winning_pairs": 3,
+    "term_votes": {
+      "MAPE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "Decision Tree Regression": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      },
+      "Random Forest Regression": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 486,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 487,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 490,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 491,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 498,
+    "n_annotators": 4,
+    "n_winning_pairs": 4,
+    "term_votes": {
+      "SVM)": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      },
+      "KNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "ANN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "LSTM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "SVM": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 499,
+    "n_annotators": 4,
+    "n_winning_pairs": 4,
+    "term_votes": {
+      "SVM": {
+        "votes": 7,
+        "threshold": 2,
+        "accepted": true
+      },
+      "KNN": {
+        "votes": 7,
+        "threshold": 2,
+        "accepted": true
+      },
+      "ANN": {
+        "votes": 7,
+        "threshold": 2,
+        "accepted": true
+      },
+      "LSTM": {
+        "votes": 7,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 500,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "LBP": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 501,
+    "n_annotators": 4,
+    "n_winning_pairs": 5,
+    "term_votes": {
+      "YİÖ": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "DVM": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      },
+      "k-EYK": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      },
+      "KA": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      },
+      "NB": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "(k-EYK": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      },
+      "(DVM": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      },
+      "(KA": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      }
+    }
+  },
+  {
+    "task_id": 504,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 505,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 506,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 507,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 508,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 509,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 510,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 511,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 520,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "CNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 521,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 522,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 523,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 524,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "RF": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 525,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "RF": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 528,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 529,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 534,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 535,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 536,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 537,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 538,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "SVM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "PCA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 539,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "DVM": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      },
+      "PCA": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 542,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "RF": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 543,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "RO": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 544,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 545,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 546,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "XGBoost": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "LightGBM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 547,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "XGBoost": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "LightGBM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 548,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "WLS": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 549,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "WLS": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 550,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 551,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 552,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 553,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 554,
+    "n_annotators": 4,
+    "n_winning_pairs": 3,
+    "term_votes": {
+      "SVM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RF": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "ROC-AUC": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 555,
+    "n_annotators": 4,
+    "n_winning_pairs": 4,
+    "term_votes": {
+      "DVM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RO": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "EBO": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "ROC-AUC": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 558,
+    "n_annotators": 4,
+    "n_winning_pairs": 4,
+    "term_votes": {
+      "ML": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "SVM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RF": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "KNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 559,
+    "n_annotators": 4,
+    "n_winning_pairs": 4,
+    "term_votes": {
+      "MÖ": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RF": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "KNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "SVM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 560,
+    "n_annotators": 4,
+    "n_winning_pairs": 4,
+    "term_votes": {
+      "CART": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RF": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "SVM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "SNIC": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 561,
+    "n_annotators": 4,
+    "n_winning_pairs": 4,
+    "term_votes": {
+      "SRA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RO": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "DVM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "BYK": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 562,
+    "n_annotators": 4,
+    "n_winning_pairs": 4,
+    "term_votes": {
+      "RANSAC": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      },
+      "DBSCAN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "p": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "r": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RANdom SAmple Consensus": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      }
+    }
+  },
+  {
+    "task_id": 563,
+    "n_annotators": 4,
+    "n_winning_pairs": 4,
+    "term_votes": {
+      "RANSAC": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "DBSCAN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "p": {
+        "votes": 7,
+        "threshold": 2,
+        "accepted": true
+      },
+      "r": {
+        "votes": 7,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 564,
+    "n_annotators": 4,
+    "n_winning_pairs": 4,
+    "term_votes": {
+      "MAE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MAPE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MSE": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RMSE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "(MSE": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      }
+    }
+  },
+  {
+    "task_id": 565,
+    "n_annotators": 4,
+    "n_winning_pairs": 4,
+    "term_votes": {
+      "MAE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MAPE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MSE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RMSE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 566,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "LDA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "SVM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 567,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "LDA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "SVM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 568,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 569,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 570,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "MLP": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RF": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 571,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "RO": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "ÇKA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 574,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "RF": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MLP": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 575,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "RO": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "ÇKA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 576,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 577,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 578,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "FIL": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "FL": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 579,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 582,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "CLAHE": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 583,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 588,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 589,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "DL": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 590,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 591,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 592,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "LSTM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 593,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "LSTM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 596,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 597,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 598,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 599,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 600,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "problem of imbalance": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 601,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "Dengesizlik problemi": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 602,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "ANN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 603,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "YSA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 606,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "CSA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 607,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "KSA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 608,
+    "n_annotators": 4,
+    "n_winning_pairs": 3,
+    "term_votes": {
+      "CNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "LSTM)": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      },
+      "SVR": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "LSTM": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 609,
+    "n_annotators": 4,
+    "n_winning_pairs": 3,
+    "term_votes": {
+      "CNN": {
+        "votes": 7,
+        "threshold": 2,
+        "accepted": true
+      },
+      "LSTM": {
+        "votes": 7,
+        "threshold": 2,
+        "accepted": true
+      },
+      "SVR": {
+        "votes": 7,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 610,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 611,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 612,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 613,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 616,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "PCA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "ANN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 617,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "YSA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "PCA": {
+        "votes": 7,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 618,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 619,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 620,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 621,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 622,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "ANN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "NSGA-II": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      },
+      "IHS-DWT": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MS": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      }
+    }
+  },
+  {
+    "task_id": 623,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "YSA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "NSGA-II": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      },
+      "IHS-DWT": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 624,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 625,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 628,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "CNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "LSTM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 629,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "ESA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "LSTM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 630,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "Two level morphology": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 631,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "İki düzeyli morfoloji": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 632,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 633,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 638,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "AI": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 639,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 640,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 641,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 642,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 643,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 646,
+    "n_annotators": 4,
+    "n_winning_pairs": 5,
+    "term_votes": {
+      "NN": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      },
+      "ANN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "SVM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "ANFIS": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      },
+      "NNs": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 647,
+    "n_annotators": 4,
+    "n_winning_pairs": 4,
+    "term_votes": {
+      "NN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "YSA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "SVM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "ANFIS": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 648,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "GAN": {
+        "votes": 7,
+        "threshold": 2,
+        "accepted": true
+      },
+      "CNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "Generative Adversarial Network": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      }
+    }
+  },
+  {
+    "task_id": 649,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "GAN": {
+        "votes": 7,
+        "threshold": 2,
+        "accepted": true
+      },
+      "CNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "Çekişmeli Üretken Ağ": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      }
+    }
+  },
+  {
+    "task_id": 650,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 651,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 652,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "PCA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "FFNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 653,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "PCA": {
+        "votes": 7,
+        "threshold": 2,
+        "accepted": true
+      },
+      "FFNN": {
+        "votes": 7,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 656,
+    "n_annotators": 4,
+    "n_winning_pairs": 3,
+    "term_votes": {
+      "ANN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MLR": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "DTR": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 657,
+    "n_annotators": 4,
+    "n_winning_pairs": 3,
+    "term_votes": {
+      "YSA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MLR": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "DTR": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 658,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 659,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 660,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 661,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 662,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 663,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 666,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 667,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 668,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 669,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "ortalama kaydırma algoritması": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 670,
+    "n_annotators": 4,
+    "n_winning_pairs": 3,
+    "term_votes": {
+      "GRU": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "LSTM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "RNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 671,
+    "n_annotators": 4,
+    "n_winning_pairs": 3,
+    "term_votes": {
+      "RNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "GRU": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "LSTM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 674,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "ANN": {
+        "votes": 7,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 675,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "YSA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "accuracy": {
+        "votes": 3,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 676,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 677,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 680,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 681,
+    "n_annotators": 4,
+    "n_winning_pairs": 0,
+    "term_votes": {}
+  },
+  {
+    "task_id": 688,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "AI": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 689,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "AI": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 690,
+    "n_annotators": 4,
+    "n_winning_pairs": 6,
+    "term_votes": {
+      "LTC": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "MAV": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "CF": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      },
+      "SSC": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      },
+      "ZC": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      },
+      "WL": {
+        "votes": 2,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 691,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "AZS": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "LTC": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      }
+    }
+  },
+  {
+    "task_id": 692,
+    "n_annotators": 4,
+    "n_winning_pairs": 3,
+    "term_votes": {
+      "SGD": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "AUC": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "DL": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 693,
+    "n_annotators": 4,
+    "n_winning_pairs": 2,
+    "term_votes": {
+      "DL": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "SGD": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 694,
+    "n_annotators": 4,
+    "n_winning_pairs": 3,
+    "term_votes": {
+      "CNN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "NCA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "SVM": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 695,
+    "n_annotators": 4,
+    "n_winning_pairs": 3,
+    "term_votes": {
+      "ESA": {
+        "votes": 5,
+        "threshold": 2,
+        "accepted": true
+      },
+      "KBA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "DVM": {
+        "votes": 5,
+        "threshold": 2,
+        "accepted": true
+      }
+    }
+  },
+  {
+    "task_id": 698,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "ANN": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "NARX": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      }
+    }
+  },
+  {
+    "task_id": 699,
+    "n_annotators": 4,
+    "n_winning_pairs": 1,
+    "term_votes": {
+      "YSA": {
+        "votes": 4,
+        "threshold": 2,
+        "accepted": true
+      },
+      "NARX": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      },
+      "FFNN": {
+        "votes": 1,
+        "threshold": 2,
+        "accepted": false
+      }
+    }
+  }
+]
