@@ -1,0 +1,132 @@
+[+] Guideline loaded (4101 chars)
+[+] 348 examples from 344 documents
+    [en]  177 examples
+    [tr]  171 examples
+INFO 04-28 15:26:19 [utils.py:233] non-default args: {'trust_remote_code': True, 'dtype': 'bfloat16', 'max_model_len': 40000, 'disable_log_stats': True, 'model': '../../models/gemma-3-27b-it'}
+WARNING 04-28 15:26:19 [envs.py:1744] Unknown vLLM environment variable detected: VLLM_USE_FLASHINFER
+INFO 04-28 15:26:20 [model.py:549] Resolved architecture: Gemma3ForConditionalGeneration
+INFO 04-28 15:26:20 [model.py:1678] Using max model len 40000
+INFO 04-28 15:26:20 [scheduler.py:238] Chunked prefill is enabled with max_num_batched_tokens=16384.
+INFO 04-28 15:26:20 [vllm.py:790] Asynchronous scheduling is enabled.
+WARNING 04-28 15:26:21 [cuda.py:199] Forcing --disable_chunked_mm_input for models with multimodal-bidirectional attention.
+ERROR 04-28 15:26:27 [processor.py:298] Failed to collect processor kwargs
+ERROR 04-28 15:26:27 [processor.py:298] Traceback (most recent call last):
+ERROR 04-28 15:26:27 [processor.py:298]   File "/scratch3/bol107/necva_env/lib/python3.11/site-packages/vllm/transformers_utils/processor.py", line 284, in get_processor_kwargs_keys
+ERROR 04-28 15:26:27 [processor.py:298]     kwargs_type_annotations = get_type_hints(kwargs_cls)
+ERROR 04-28 15:26:27 [processor.py:298]                               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+ERROR 04-28 15:26:27 [processor.py:298]   File "/scratch3/bol107/necva_env/lib/python3.11/typing.py", line 2377, in get_type_hints
+ERROR 04-28 15:26:27 [processor.py:298]     value = _eval_type(value, base_globals, base_locals)
+ERROR 04-28 15:26:27 [processor.py:298]             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ERROR 04-28 15:26:27 [processor.py:298]   File "/scratch3/bol107/necva_env/lib/python3.11/typing.py", line 409, in _eval_type
+ERROR 04-28 15:26:27 [processor.py:298]     ev_args = tuple(_eval_type(a, globalns, localns, recursive_guard) for a in t.__args__)
+ERROR 04-28 15:26:27 [processor.py:298]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ERROR 04-28 15:26:27 [processor.py:298]   File "/scratch3/bol107/necva_env/lib/python3.11/typing.py", line 409, in <genexpr>
+ERROR 04-28 15:26:27 [processor.py:298]     ev_args = tuple(_eval_type(a, globalns, localns, recursive_guard) for a in t.__args__)
+ERROR 04-28 15:26:27 [processor.py:298]                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ERROR 04-28 15:26:27 [processor.py:298]   File "/scratch3/bol107/necva_env/lib/python3.11/typing.py", line 395, in _eval_type
+ERROR 04-28 15:26:27 [processor.py:298]     return t._evaluate(globalns, localns, recursive_guard)
+ERROR 04-28 15:26:27 [processor.py:298]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ERROR 04-28 15:26:27 [processor.py:298]   File "/scratch3/bol107/necva_env/lib/python3.11/typing.py", line 905, in _evaluate
+ERROR 04-28 15:26:27 [processor.py:298]     eval(self.__forward_code__, globalns, localns),
+ERROR 04-28 15:26:27 [processor.py:298]     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ERROR 04-28 15:26:27 [processor.py:298]   File "<string>", line 1, in <module>
+ERROR 04-28 15:26:27 [processor.py:298] NameError: name 'PILImageResampling' is not defined
+(EngineCore pid=34274) INFO 04-28 15:26:54 [core.py:105] Initializing a V1 LLM engine (v0.19.1) with config: model='../../models/gemma-3-27b-it', speculative_config=None, tokenizer='../../models/gemma-3-27b-it', skip_tokenizer_init=False, tokenizer_mode=auto, revision=None, tokenizer_revision=None, trust_remote_code=True, dtype=torch.bfloat16, max_seq_len=40000, download_dir=None, load_format=auto, tensor_parallel_size=1, pipeline_parallel_size=1, data_parallel_size=1, decode_context_parallel_size=1, dcp_comm_backend=ag_rs, disable_custom_all_reduce=False, quantization=None, enforce_eager=False, enable_return_routed_experts=False, kv_cache_dtype=auto, device_config=cuda, structured_outputs_config=StructuredOutputsConfig(backend='auto', disable_any_whitespace=False, disable_additional_properties=False, reasoning_parser='', reasoning_parser_plugin='', enable_in_reasoning=False), observability_config=ObservabilityConfig(show_hidden_metrics_for_version=None, otlp_traces_endpoint=None, collect_detailed_traces=None, kv_cache_metrics=False, kv_cache_metrics_sample=0.01, cudagraph_metrics=False, enable_layerwise_nvtx_tracing=False, enable_mfu_metrics=False, enable_mm_processor_stats=False, enable_logging_iteration_details=False), seed=0, served_model_name=../../models/gemma-3-27b-it, enable_prefix_caching=True, enable_chunked_prefill=True, pooler_config=None, compilation_config={'mode': <CompilationMode.VLLM_COMPILE: 3>, 'debug_dump_path': None, 'cache_dir': '', 'compile_cache_save_format': 'binary', 'backend': 'inductor', 'custom_ops': ['none'], 'splitting_ops': ['vllm::unified_attention', 'vllm::unified_attention_with_output', 'vllm::unified_mla_attention', 'vllm::unified_mla_attention_with_output', 'vllm::mamba_mixer2', 'vllm::mamba_mixer', 'vllm::short_conv', 'vllm::linear_attention', 'vllm::plamo2_mamba_mixer', 'vllm::gdn_attention_core', 'vllm::olmo_hybrid_gdn_full_forward', 'vllm::kda_attention', 'vllm::sparse_attn_indexer', 'vllm::rocm_aiter_sparse_attn_indexer', 'vllm::unified_kv_cache_update', 'vllm::unified_mla_kv_cache_update'], 'compile_mm_encoder': False, 'cudagraph_mm_encoder': False, 'encoder_cudagraph_token_budgets': [], 'encoder_cudagraph_max_images_per_batch': 0, 'compile_sizes': [], 'compile_ranges_endpoints': [16384], 'inductor_compile_config': {'enable_auto_functionalized_v2': False, 'size_asserts': False, 'alignment_asserts': False, 'scalar_asserts': False, 'combo_kernels': True, 'benchmark_combo_kernel': True}, 'inductor_passes': {}, 'cudagraph_mode': <CUDAGraphMode.FULL_AND_PIECEWISE: (2, 1)>, 'cudagraph_num_of_warmups': 1, 'cudagraph_capture_sizes': [1, 2, 4, 8, 16, 24, 32, 40, 48, 56, 64, 72, 80, 88, 96, 104, 112, 120, 128, 136, 144, 152, 160, 168, 176, 184, 192, 200, 208, 216, 224, 232, 240, 248, 256, 272, 288, 304, 320, 336, 352, 368, 384, 400, 416, 432, 448, 464, 480, 496, 512], 'cudagraph_copy_inputs': False, 'cudagraph_specialize_lora': True, 'use_inductor_graph_partition': False, 'pass_config': {'fuse_norm_quant': False, 'fuse_act_quant': False, 'fuse_attn_quant': False, 'enable_sp': False, 'fuse_gemm_comms': False, 'fuse_allreduce_rms': False}, 'max_cudagraph_capture_size': 512, 'dynamic_shapes_config': {'type': <DynamicShapesType.BACKED: 'backed'>, 'evaluate_guards': False, 'assume_32_bit_indexing': False}, 'local_cache_dir': None, 'fast_moe_cold_start': True, 'static_all_moe_layers': []}
+(EngineCore pid=34274) INFO 04-28 15:26:58 [parallel_state.py:1400] world_size=1 rank=0 local_rank=0 distributed_init_method=tcp://10.141.203.88:38331 backend=nccl
+(EngineCore pid=34274) INFO 04-28 15:26:59 [parallel_state.py:1716] rank 0 in world size 1 is assigned as DP rank 0, PP rank 0, PCP rank 0, TP rank 0, EP rank N/A, EPLB rank N/A
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298] Failed to collect processor kwargs
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298] Traceback (most recent call last):
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298]   File "/scratch3/bol107/necva_env/lib/python3.11/site-packages/vllm/transformers_utils/processor.py", line 284, in get_processor_kwargs_keys
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298]     kwargs_type_annotations = get_type_hints(kwargs_cls)
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298]                               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298]   File "/scratch3/bol107/necva_env/lib/python3.11/typing.py", line 2377, in get_type_hints
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298]     value = _eval_type(value, base_globals, base_locals)
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298]             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298]   File "/scratch3/bol107/necva_env/lib/python3.11/typing.py", line 409, in _eval_type
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298]     ev_args = tuple(_eval_type(a, globalns, localns, recursive_guard) for a in t.__args__)
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298]               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298]   File "/scratch3/bol107/necva_env/lib/python3.11/typing.py", line 409, in <genexpr>
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298]     ev_args = tuple(_eval_type(a, globalns, localns, recursive_guard) for a in t.__args__)
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298]                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298]   File "/scratch3/bol107/necva_env/lib/python3.11/typing.py", line 395, in _eval_type
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298]     return t._evaluate(globalns, localns, recursive_guard)
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298]   File "/scratch3/bol107/necva_env/lib/python3.11/typing.py", line 905, in _evaluate
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298]     eval(self.__forward_code__, globalns, localns),
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298]     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298]   File "<string>", line 1, in <module>
+(EngineCore pid=34274) ERROR 04-28 15:27:01 [processor.py:298] NameError: name 'PILImageResampling' is not defined
+(EngineCore pid=34274) INFO 04-28 15:27:07 [gpu_model_runner.py:4735] Starting to load model ../../models/gemma-3-27b-it...
+(EngineCore pid=34274) INFO 04-28 15:27:07 [interfaces.py:171] Contains out of vocabulary multimodal tokens? False
+(EngineCore pid=34274) INFO 04-28 15:27:07 [cuda.py:390] Using backend AttentionBackendEnum.FLASH_ATTN for vit attention
+(EngineCore pid=34274) INFO 04-28 15:27:07 [mm_encoder_attention.py:230] Using AttentionBackendEnum.FLASH_ATTN for MMEncoderAttention.
+(EngineCore pid=34274) INFO 04-28 15:27:07 [vllm.py:790] Asynchronous scheduling is enabled.
+(EngineCore pid=34274) INFO 04-28 15:27:09 [cuda.py:334] Using TRITON_ATTN attention backend out of potential backends: ['TRITON_ATTN', 'FLEX_ATTENTION'].
+(EngineCore pid=34274) INFO 04-28 15:27:39 [default_loader.py:384] Loading weights took 29.04 seconds
+(EngineCore pid=34274) INFO 04-28 15:27:41 [gpu_model_runner.py:4820] Model loading took 51.45 GiB memory and 31.729646 seconds
+(EngineCore pid=34274) INFO 04-28 15:27:42 [gpu_model_runner.py:5753] Encoder cache will be initialized with a budget of 16384 tokens, and profiled with 64 image items of the maximum feature size.
+(EngineCore pid=34274) INFO 04-28 15:27:52 [backends.py:1051] Using cache directory: /scratch3/bol107/.cache/vllm/torch_compile_cache/9cbae30e54/rank_0_0/backbone for vLLM's torch.compile
+(EngineCore pid=34274) INFO 04-28 15:27:52 [backends.py:1111] Dynamo bytecode transform time: 8.71 s
+(EngineCore pid=34274) INFO 04-28 15:27:56 [backends.py:285] Directly load the compiled graph(s) for compile range (1, 16384) from the cache, took 2.885 s
+(EngineCore pid=34274) INFO 04-28 15:27:56 [decorators.py:305] Directly load AOT compilation from path /scratch3/bol107/.cache/vllm/torch_compile_cache/torch_aot_compile/f858c1bd30c6aa80da469fcb7620ffae0245dc39678a9c03c560f6df19259a0f/rank_0_0/model
+(EngineCore pid=34274) INFO 04-28 15:27:56 [monitor.py:48] torch.compile took 12.62 s in total
+(EngineCore pid=34274) INFO 04-28 15:27:56 [monitor.py:76] Initial profiling/warmup run took 0.39 s
+(EngineCore pid=34274) WARNING 04-28 15:27:58 [kv_cache_utils.py:1059] Add 8 padding layers, may waste at most 15.38% KV cache memory
+(EngineCore pid=34274) INFO 04-28 15:27:58 [kv_cache_utils.py:829] Overriding num_gpu_blocks=0 with num_gpu_blocks_override=512
+(EngineCore pid=34274) INFO 04-28 15:27:58 [gpu_model_runner.py:5876] Profiling CUDA graph memory: PIECEWISE=51 (largest=512), FULL=51 (largest=512)
+(EngineCore pid=34274) INFO 04-28 15:27:59 [gpu_model_runner.py:5955] Estimated CUDA graph memory: 1.05 GiB total
+(EngineCore pid=34274) INFO 04-28 15:28:00 [gpu_worker.py:436] Available KV cache memory: 25.42 GiB
+(EngineCore pid=34274) INFO 04-28 15:28:00 [gpu_worker.py:470] In v0.19, CUDA graph memory profiling will be enabled by default (VLLM_MEMORY_PROFILER_ESTIMATE_CUDAGRAPHS=1), which more accurately accounts for CUDA graph memory during KV cache allocation. To try it now, set VLLM_MEMORY_PROFILER_ESTIMATE_CUDAGRAPHS=1 and increase --gpu-memory-utilization from 0.9000 to 0.9112 to maintain the same effective KV cache size.
+(EngineCore pid=34274) WARNING 04-28 15:28:00 [kv_cache_utils.py:1059] Add 8 padding layers, may waste at most 15.38% KV cache memory
+(EngineCore pid=34274) INFO 04-28 15:28:00 [kv_cache_utils.py:1319] GPU KV cache size: 47,600 tokens
+(EngineCore pid=34274) INFO 04-28 15:28:00 [kv_cache_utils.py:1324] Maximum concurrency for 40,000 tokens per request: 2.31x
+(EngineCore pid=34274) INFO 04-28 15:28:10 [gpu_model_runner.py:6046] Graph capturing finished in 10 secs, took 1.19 GiB
+(EngineCore pid=34274) INFO 04-28 15:28:10 [gpu_worker.py:597] CUDA graph pool memory: 1.19 GiB (actual), 1.05 GiB (estimated), difference: 0.14 GiB (11.8%).
+(EngineCore pid=34274) INFO 04-28 15:28:10 [core.py:283] init engine (profile, create kv cache, warmup model) took 28.53 seconds
+[+] Sample prompt (first 600 chars):
+<bos><start_of_turn>user
+You are an expert at locating and extracting exact definition spans from scientific text. You always quote the source verbatim.
+
+You are given a scientific document and a specific technical term.
+Your task is to find and extract the EXACT definition of that term as it appears in the document,
+following the annotation guidelines below.
+
+## Guidelines
+You will be given a scientific text (abstract -maybe introduction included) of a research article. The goal of this task is to identify scientific terms and their definitions in the text.
+
+This task is formulated as a combi
+---
+(EngineCore pid=34274) INFO 04-28 15:28:45 [core.py:1210] Shutdown initiated (timeout=0)
+(EngineCore pid=34274) INFO 04-28 15:28:45 [core.py:1233] Shutdown complete
+[+] Inference complete (348 outputs)
+
+============================================================
+  EXPERIMENT 1 — Definition Span Extraction
+============================================================
+
+  [OVERALL]  n=348
+    exact_match               0.4109 ########
+    token_f1                  0.6811 #############
+    char_f1                   0.7206 ##############
+    span_validity_rate        0.9339 ##################
+    hallucination_rate        0.0413 
+    null_rate                 0.0259 
+
+  [EN]  n=177
+    exact_match               0.4633 #########
+    token_f1                  0.7033 ##############
+    char_f1                   0.7627 ###############
+    span_validity_rate        0.9548 ###################
+    hallucination_rate        0.0452 
+    null_rate                 0.0000 
+
+  [TR]  n=171
+    exact_match               0.3567 #######
+    token_f1                  0.6580 #############
+    char_f1                   0.6769 #############
+    span_validity_rate        0.9123 ##################
+    hallucination_rate        0.0370 
+    null_rate                 0.0526 #
+
+[+] Per-example results -> ../results/exp2/gemma-3-27b-it_guideline.json
+[+] Aggregate evaluation -> ../results/exp2/gemma-3-27b-it_eval_guideline.json

@@ -56,9 +56,9 @@ MODELS=(
 )
 
 MODEL=${MODELS[$SLURM_ARRAY_TASK_ID]}
-python run_experiment.py \
+python exp2_run.py \
     --data   "../dataset/mlonlysum_majority.json" \
     --model  "$MODEL" \
-    --output "../results/exp2/$(basename $MODEL).json" \
-    --eval_output "../results/exp2/$(basename $MODEL)_eval.json" \
-#--guideline "../guideline.md"
+    --output "../results/exp2/$(basename $MODEL)_guideline.json" \
+    --eval_output "../results/exp2/$(basename $MODEL)_eval_guideline.json" \
+    --guideline "../guideline.md"

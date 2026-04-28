@@ -1,4 +1,0 @@
-[+] Loaded 344 documents
-INFO 04-28 12:45:30 [utils.py:233] non-default args: {'trust_remote_code': True, 'dtype': 'bfloat16', 'max_model_len': 40000, 'tensor_parallel_size': 2, 'disable_log_stats': True, 'model': '../../models/gemma-3-1b-it'}
-WARNING 04-28 12:45:30 [envs.py:1744] Unknown vLLM environment variable detected: VLLM_USE_FLASHINFER
-INFO 04-28 12:45:30 [model.py:549] Resolved architecture: Gemma3ForCausalLM

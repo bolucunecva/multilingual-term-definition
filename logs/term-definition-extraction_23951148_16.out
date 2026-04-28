@@ -1,0 +1,6 @@
+[+] 348 examples from 344 documents
+    [en]  177 examples
+    [tr]  171 examples
+INFO 04-28 14:28:38 [utils.py:233] non-default args: {'trust_remote_code': True, 'dtype': 'bfloat16', 'max_model_len': 40000, 'disable_log_stats': True, 'model': '../../models/gemma-3-1b-it'}
+WARNING 04-28 14:28:38 [envs.py:1744] Unknown vLLM environment variable detected: VLLM_USE_FLASHINFER
+INFO 04-28 14:28:39 [model.py:549] Resolved architecture: Gemma3ForCausalLM

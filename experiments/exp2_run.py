@@ -33,9 +33,9 @@ from pathlib import Path
 from typing import List, Dict, Optional, Tuple
 
 from data_utils    import load_data, get_document_text, extract_gold_pairs, get_language
-from experiments.exp2_prompts  import build_prompt
+from exp2_prompts  import build_prompt
 from inference     import Extractor
-from experiments.exp2_evaluate import evaluate_example, aggregate_exp1, print_exp1_results
+from exp2_evaluate import evaluate_example, aggregate_exp1, print_exp1_results
 
 
 # ---------------------------------------------------------------------------

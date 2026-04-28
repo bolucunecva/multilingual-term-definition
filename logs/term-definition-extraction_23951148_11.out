@@ -1,0 +1,5 @@
+[+] 348 examples from 344 documents
+    [en]  177 examples
+    [tr]  171 examples
+INFO 04-28 14:26:57 [utils.py:233] non-default args: {'trust_remote_code': True, 'dtype': 'bfloat16', 'max_model_len': 40000, 'disable_log_stats': True, 'model': '../../models/gemma-4-31B-it'}
+WARNING 04-28 14:26:57 [envs.py:1744] Unknown vLLM environment variable detected: VLLM_USE_FLASHINFER

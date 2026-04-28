@@ -1,3 +1,0 @@
-[+] Loaded 344 documents
-INFO 04-28 12:45:25 [utils.py:233] non-default args: {'trust_remote_code': True, 'dtype': 'bfloat16', 'max_model_len': 40000, 'tensor_parallel_size': 2, 'disable_log_stats': True, 'model': '../../models/Olmo-3-32B-Think'}
-WARNING 04-28 12:45:25 [envs.py:1744] Unknown vLLM environment variable detected: VLLM_USE_FLASHINFER

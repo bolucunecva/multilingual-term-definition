@@ -1,0 +1,82 @@
+[+] Guideline loaded (4101 chars)
+[+] 348 examples from 344 documents
+    [en]  177 examples
+    [tr]  171 examples
+INFO 04-28 14:58:57 [utils.py:233] non-default args: {'trust_remote_code': True, 'dtype': 'bfloat16', 'max_model_len': 40000, 'disable_log_stats': True, 'model': '../../models/Qwen3-32B'}
+WARNING 04-28 14:58:57 [envs.py:1744] Unknown vLLM environment variable detected: VLLM_USE_FLASHINFER
+INFO 04-28 14:58:57 [model.py:549] Resolved architecture: Qwen3ForCausalLM
+INFO 04-28 14:58:57 [model.py:1678] Using max model len 40000
+INFO 04-28 14:58:57 [scheduler.py:238] Chunked prefill is enabled with max_num_batched_tokens=16384.
+INFO 04-28 14:58:57 [vllm.py:790] Asynchronous scheduling is enabled.
+(EngineCore pid=34903) INFO 04-28 14:59:21 [core.py:105] Initializing a V1 LLM engine (v0.19.1) with config: model='../../models/Qwen3-32B', speculative_config=None, tokenizer='../../models/Qwen3-32B', skip_tokenizer_init=False, tokenizer_mode=auto, revision=None, tokenizer_revision=None, trust_remote_code=True, dtype=torch.bfloat16, max_seq_len=40000, download_dir=None, load_format=auto, tensor_parallel_size=1, pipeline_parallel_size=1, data_parallel_size=1, decode_context_parallel_size=1, dcp_comm_backend=ag_rs, disable_custom_all_reduce=False, quantization=None, enforce_eager=False, enable_return_routed_experts=False, kv_cache_dtype=auto, device_config=cuda, structured_outputs_config=StructuredOutputsConfig(backend='auto', disable_any_whitespace=False, disable_additional_properties=False, reasoning_parser='', reasoning_parser_plugin='', enable_in_reasoning=False), observability_config=ObservabilityConfig(show_hidden_metrics_for_version=None, otlp_traces_endpoint=None, collect_detailed_traces=None, kv_cache_metrics=False, kv_cache_metrics_sample=0.01, cudagraph_metrics=False, enable_layerwise_nvtx_tracing=False, enable_mfu_metrics=False, enable_mm_processor_stats=False, enable_logging_iteration_details=False), seed=0, served_model_name=../../models/Qwen3-32B, enable_prefix_caching=True, enable_chunked_prefill=True, pooler_config=None, compilation_config={'mode': <CompilationMode.VLLM_COMPILE: 3>, 'debug_dump_path': None, 'cache_dir': '', 'compile_cache_save_format': 'binary', 'backend': 'inductor', 'custom_ops': ['none'], 'splitting_ops': ['vllm::unified_attention', 'vllm::unified_attention_with_output', 'vllm::unified_mla_attention', 'vllm::unified_mla_attention_with_output', 'vllm::mamba_mixer2', 'vllm::mamba_mixer', 'vllm::short_conv', 'vllm::linear_attention', 'vllm::plamo2_mamba_mixer', 'vllm::gdn_attention_core', 'vllm::olmo_hybrid_gdn_full_forward', 'vllm::kda_attention', 'vllm::sparse_attn_indexer', 'vllm::rocm_aiter_sparse_attn_indexer', 'vllm::unified_kv_cache_update', 'vllm::unified_mla_kv_cache_update'], 'compile_mm_encoder': False, 'cudagraph_mm_encoder': False, 'encoder_cudagraph_token_budgets': [], 'encoder_cudagraph_max_images_per_batch': 0, 'compile_sizes': [], 'compile_ranges_endpoints': [16384], 'inductor_compile_config': {'enable_auto_functionalized_v2': False, 'size_asserts': False, 'alignment_asserts': False, 'scalar_asserts': False, 'combo_kernels': True, 'benchmark_combo_kernel': True}, 'inductor_passes': {}, 'cudagraph_mode': <CUDAGraphMode.FULL_AND_PIECEWISE: (2, 1)>, 'cudagraph_num_of_warmups': 1, 'cudagraph_capture_sizes': [1, 2, 4, 8, 16, 24, 32, 40, 48, 56, 64, 72, 80, 88, 96, 104, 112, 120, 128, 136, 144, 152, 160, 168, 176, 184, 192, 200, 208, 216, 224, 232, 240, 248, 256, 272, 288, 304, 320, 336, 352, 368, 384, 400, 416, 432, 448, 464, 480, 496, 512], 'cudagraph_copy_inputs': False, 'cudagraph_specialize_lora': True, 'use_inductor_graph_partition': False, 'pass_config': {'fuse_norm_quant': False, 'fuse_act_quant': False, 'fuse_attn_quant': False, 'enable_sp': False, 'fuse_gemm_comms': False, 'fuse_allreduce_rms': False}, 'max_cudagraph_capture_size': 512, 'dynamic_shapes_config': {'type': <DynamicShapesType.BACKED: 'backed'>, 'evaluate_guards': False, 'assume_32_bit_indexing': False}, 'local_cache_dir': None, 'fast_moe_cold_start': True, 'static_all_moe_layers': []}
+(EngineCore pid=34903) INFO 04-28 14:59:23 [parallel_state.py:1400] world_size=1 rank=0 local_rank=0 distributed_init_method=tcp://10.141.203.33:49405 backend=nccl
+(EngineCore pid=34903) INFO 04-28 14:59:24 [parallel_state.py:1716] rank 0 in world size 1 is assigned as DP rank 0, PP rank 0, PCP rank 0, TP rank 0, EP rank N/A, EPLB rank N/A
+(EngineCore pid=34903) INFO 04-28 14:59:24 [gpu_model_runner.py:4735] Starting to load model ../../models/Qwen3-32B...
+(EngineCore pid=34903) INFO 04-28 14:59:27 [cuda.py:334] Using FLASH_ATTN attention backend out of potential backends: ['FLASH_ATTN', 'FLASHINFER', 'TRITON_ATTN', 'FLEX_ATTENTION'].
+(EngineCore pid=34903) INFO 04-28 14:59:27 [flash_attn.py:596] Using FlashAttention version 3
+(EngineCore pid=34903) INFO 04-28 14:59:58 [default_loader.py:384] Loading weights took 30.70 seconds
+(EngineCore pid=34903) INFO 04-28 14:59:59 [gpu_model_runner.py:4820] Model loading took 61.03 GiB memory and 33.316045 seconds
+(EngineCore pid=34903) INFO 04-28 15:00:07 [backends.py:1051] Using cache directory: /scratch3/bol107/.cache/vllm/torch_compile_cache/f9795b43ea/rank_0_0/backbone for vLLM's torch.compile
+(EngineCore pid=34903) INFO 04-28 15:00:07 [backends.py:1111] Dynamo bytecode transform time: 8.17 s
+(EngineCore pid=34903) INFO 04-28 15:00:11 [backends.py:285] Directly load the compiled graph(s) for compile range (1, 16384) from the cache, took 3.081 s
+(EngineCore pid=34903) INFO 04-28 15:00:11 [decorators.py:305] Directly load AOT compilation from path /scratch3/bol107/.cache/vllm/torch_compile_cache/torch_aot_compile/11c78265fd2d470156ca5721db04efc80767be70a1c6c5f68b548d8fc43ee780/rank_0_0/model
+(EngineCore pid=34903) INFO 04-28 15:00:11 [monitor.py:48] torch.compile took 11.78 s in total
+(EngineCore pid=34903) INFO 04-28 15:00:13 [monitor.py:76] Initial profiling/warmup run took 2.15 s
+(EngineCore pid=34903) INFO 04-28 15:00:14 [kv_cache_utils.py:829] Overriding num_gpu_blocks=0 with num_gpu_blocks_override=512
+(EngineCore pid=34903) INFO 04-28 15:00:14 [gpu_model_runner.py:5876] Profiling CUDA graph memory: PIECEWISE=51 (largest=512), FULL=51 (largest=512)
+(EngineCore pid=34903) INFO 04-28 15:00:15 [gpu_model_runner.py:5955] Estimated CUDA graph memory: 1.68 GiB total
+(EngineCore pid=34903) INFO 04-28 15:00:15 [gpu_worker.py:436] Available KV cache memory: 19.67 GiB
+(EngineCore pid=34903) INFO 04-28 15:00:15 [gpu_worker.py:470] In v0.19, CUDA graph memory profiling will be enabled by default (VLLM_MEMORY_PROFILER_ESTIMATE_CUDAGRAPHS=1), which more accurately accounts for CUDA graph memory during KV cache allocation. To try it now, set VLLM_MEMORY_PROFILER_ESTIMATE_CUDAGRAPHS=1 and increase --gpu-memory-utilization from 0.9000 to 0.9180 to maintain the same effective KV cache size.
+(EngineCore pid=34903) INFO 04-28 15:00:15 [kv_cache_utils.py:1319] GPU KV cache size: 80,544 tokens
+(EngineCore pid=34903) INFO 04-28 15:00:15 [kv_cache_utils.py:1324] Maximum concurrency for 40,000 tokens per request: 2.01x
+(EngineCore pid=34903) INFO 04-28 15:00:26 [gpu_model_runner.py:6046] Graph capturing finished in 10 secs, took 1.87 GiB
+(EngineCore pid=34903) INFO 04-28 15:00:26 [gpu_worker.py:597] CUDA graph pool memory: 1.87 GiB (actual), 1.68 GiB (estimated), difference: 0.18 GiB (9.8%).
+(EngineCore pid=34903) INFO 04-28 15:00:26 [core.py:283] init engine (profile, create kv cache, warmup model) took 27.10 seconds
+(EngineCore pid=34903) INFO 04-28 15:00:27 [vllm.py:790] Asynchronous scheduling is enabled.
+[+] Sample prompt (first 600 chars):
+<|im_start|>system
+You are an expert at locating and extracting exact definition spans from scientific text. You always quote the source verbatim.<|im_end|>
+<|im_start|>user
+You are given a scientific document and a specific technical term.
+Your task is to find and extract the EXACT definition of that term as it appears in the document,
+following the annotation guidelines below.
+
+## Guidelines
+You will be given a scientific text (abstract -maybe introduction included) of a research article. The goal of this task is to identify scientific terms and their definitions in the text.
+
+This task is f
+---
+(EngineCore pid=34903) INFO 04-28 15:01:53 [core.py:1210] Shutdown initiated (timeout=0)
+(EngineCore pid=34903) INFO 04-28 15:01:53 [core.py:1233] Shutdown complete
+[+] Inference complete (348 outputs)
+
+============================================================
+  EXPERIMENT 1 — Definition Span Extraction
+============================================================
+
+  [OVERALL]  n=348
+    exact_match               0.7126 ##############
+    token_f1                  0.7623 ###############
+    char_f1                   0.7850 ###############
+    span_validity_rate        0.7989 ###############
+    hallucination_rate        0.2011 ####
+    null_rate                 0.0000 
+
+  [EN]  n=177
+    exact_match               0.7684 ###############
+    token_f1                  0.8170 ################
+    char_f1                   0.8343 ################
+    span_validity_rate        0.8475 ################
+    hallucination_rate        0.1525 ###
+    null_rate                 0.0000 
+
+  [TR]  n=171
+    exact_match               0.6550 #############
+    token_f1                  0.7056 ##############
+    char_f1                   0.7340 ##############
+    span_validity_rate        0.7485 ##############
+    hallucination_rate        0.2515 #####
+    null_rate                 0.0000 
+
+[+] Per-example results -> ../results/exp2/Qwen3-32B_guideline.json
+[+] Aggregate evaluation -> ../results/exp2/Qwen3-32B_eval_guideline.json

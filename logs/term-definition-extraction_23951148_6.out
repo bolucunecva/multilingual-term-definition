@@ -1,0 +1,81 @@
+[+] 348 examples from 344 documents
+    [en]  177 examples
+    [tr]  171 examples
+INFO 04-28 14:21:22 [utils.py:233] non-default args: {'trust_remote_code': True, 'dtype': 'bfloat16', 'max_model_len': 40000, 'disable_log_stats': True, 'model': '../../models/DeepSeek-R1-Distill-Llama-8B'}
+WARNING 04-28 14:21:22 [envs.py:1744] Unknown vLLM environment variable detected: VLLM_USE_FLASHINFER
+INFO 04-28 14:21:22 [model.py:549] Resolved architecture: LlamaForCausalLM
+INFO 04-28 14:21:22 [model.py:1678] Using max model len 40000
+INFO 04-28 14:21:22 [scheduler.py:238] Chunked prefill is enabled with max_num_batched_tokens=16384.
+INFO 04-28 14:21:22 [vllm.py:790] Asynchronous scheduling is enabled.
+(EngineCore pid=25149) INFO 04-28 14:21:46 [core.py:105] Initializing a V1 LLM engine (v0.19.1) with config: model='../../models/DeepSeek-R1-Distill-Llama-8B', speculative_config=None, tokenizer='../../models/DeepSeek-R1-Distill-Llama-8B', skip_tokenizer_init=False, tokenizer_mode=auto, revision=None, tokenizer_revision=None, trust_remote_code=True, dtype=torch.bfloat16, max_seq_len=40000, download_dir=None, load_format=auto, tensor_parallel_size=1, pipeline_parallel_size=1, data_parallel_size=1, decode_context_parallel_size=1, dcp_comm_backend=ag_rs, disable_custom_all_reduce=False, quantization=None, enforce_eager=False, enable_return_routed_experts=False, kv_cache_dtype=auto, device_config=cuda, structured_outputs_config=StructuredOutputsConfig(backend='auto', disable_any_whitespace=False, disable_additional_properties=False, reasoning_parser='', reasoning_parser_plugin='', enable_in_reasoning=False), observability_config=ObservabilityConfig(show_hidden_metrics_for_version=None, otlp_traces_endpoint=None, collect_detailed_traces=None, kv_cache_metrics=False, kv_cache_metrics_sample=0.01, cudagraph_metrics=False, enable_layerwise_nvtx_tracing=False, enable_mfu_metrics=False, enable_mm_processor_stats=False, enable_logging_iteration_details=False), seed=0, served_model_name=../../models/DeepSeek-R1-Distill-Llama-8B, enable_prefix_caching=True, enable_chunked_prefill=True, pooler_config=None, compilation_config={'mode': <CompilationMode.VLLM_COMPILE: 3>, 'debug_dump_path': None, 'cache_dir': '', 'compile_cache_save_format': 'binary', 'backend': 'inductor', 'custom_ops': ['none'], 'splitting_ops': ['vllm::unified_attention', 'vllm::unified_attention_with_output', 'vllm::unified_mla_attention', 'vllm::unified_mla_attention_with_output', 'vllm::mamba_mixer2', 'vllm::mamba_mixer', 'vllm::short_conv', 'vllm::linear_attention', 'vllm::plamo2_mamba_mixer', 'vllm::gdn_attention_core', 'vllm::olmo_hybrid_gdn_full_forward', 'vllm::kda_attention', 'vllm::sparse_attn_indexer', 'vllm::rocm_aiter_sparse_attn_indexer', 'vllm::unified_kv_cache_update', 'vllm::unified_mla_kv_cache_update'], 'compile_mm_encoder': False, 'cudagraph_mm_encoder': False, 'encoder_cudagraph_token_budgets': [], 'encoder_cudagraph_max_images_per_batch': 0, 'compile_sizes': [], 'compile_ranges_endpoints': [16384], 'inductor_compile_config': {'enable_auto_functionalized_v2': False, 'size_asserts': False, 'alignment_asserts': False, 'scalar_asserts': False, 'combo_kernels': True, 'benchmark_combo_kernel': True}, 'inductor_passes': {}, 'cudagraph_mode': <CUDAGraphMode.FULL_AND_PIECEWISE: (2, 1)>, 'cudagraph_num_of_warmups': 1, 'cudagraph_capture_sizes': [1, 2, 4, 8, 16, 24, 32, 40, 48, 56, 64, 72, 80, 88, 96, 104, 112, 120, 128, 136, 144, 152, 160, 168, 176, 184, 192, 200, 208, 216, 224, 232, 240, 248, 256, 272, 288, 304, 320, 336, 352, 368, 384, 400, 416, 432, 448, 464, 480, 496, 512], 'cudagraph_copy_inputs': False, 'cudagraph_specialize_lora': True, 'use_inductor_graph_partition': False, 'pass_config': {'fuse_norm_quant': False, 'fuse_act_quant': False, 'fuse_attn_quant': False, 'enable_sp': False, 'fuse_gemm_comms': False, 'fuse_allreduce_rms': False}, 'max_cudagraph_capture_size': 512, 'dynamic_shapes_config': {'type': <DynamicShapesType.BACKED: 'backed'>, 'evaluate_guards': False, 'assume_32_bit_indexing': False}, 'local_cache_dir': None, 'fast_moe_cold_start': True, 'static_all_moe_layers': []}
+(EngineCore pid=25149) INFO 04-28 14:21:49 [parallel_state.py:1400] world_size=1 rank=0 local_rank=0 distributed_init_method=tcp://10.141.203.28:54673 backend=nccl
+(EngineCore pid=25149) INFO 04-28 14:21:49 [parallel_state.py:1716] rank 0 in world size 1 is assigned as DP rank 0, PP rank 0, PCP rank 0, TP rank 0, EP rank N/A, EPLB rank N/A
+(EngineCore pid=25149) INFO 04-28 14:21:49 [gpu_model_runner.py:4735] Starting to load model ../../models/DeepSeek-R1-Distill-Llama-8B...
+(EngineCore pid=25149) INFO 04-28 14:21:52 [cuda.py:334] Using FLASH_ATTN attention backend out of potential backends: ['FLASH_ATTN', 'FLASHINFER', 'TRITON_ATTN', 'FLEX_ATTENTION'].
+(EngineCore pid=25149) INFO 04-28 14:21:52 [flash_attn.py:596] Using FlashAttention version 3
+(EngineCore pid=25149) INFO 04-28 14:22:03 [default_loader.py:384] Loading weights took 11.19 seconds
+(EngineCore pid=25149) INFO 04-28 14:22:04 [gpu_model_runner.py:4820] Model loading took 14.99 GiB memory and 13.627911 seconds
+(EngineCore pid=25149) INFO 04-28 14:22:13 [backends.py:1051] Using cache directory: /scratch3/bol107/.cache/vllm/torch_compile_cache/001f3d6770/rank_0_0/backbone for vLLM's torch.compile
+(EngineCore pid=25149) INFO 04-28 14:22:13 [backends.py:1111] Dynamo bytecode transform time: 8.88 s
+(EngineCore pid=25149) INFO 04-28 14:22:16 [backends.py:372] Cache the graph of compile range (1, 16384) for later use
+(EngineCore pid=25149) INFO 04-28 14:22:19 [backends.py:390] Compiling a graph for compile range (1, 16384) takes 4.74 s
+(EngineCore pid=25149) INFO 04-28 14:22:20 [decorators.py:655] saved AOT compiled function to /scratch3/bol107/.cache/vllm/torch_compile_cache/torch_aot_compile/5bb623ee61dcdd5c14ca48003c5f080ca57683c9b04e21a2a1afe1232d4ee77a/rank_0_0/model
+(EngineCore pid=25149) INFO 04-28 14:22:20 [monitor.py:48] torch.compile took 16.00 s in total
+(EngineCore pid=25149) INFO 04-28 14:22:21 [monitor.py:76] Initial profiling/warmup run took 1.02 s
+(EngineCore pid=25149) INFO 04-28 14:22:22 [kv_cache_utils.py:829] Overriding num_gpu_blocks=0 with num_gpu_blocks_override=512
+(EngineCore pid=25149) INFO 04-28 14:22:22 [gpu_model_runner.py:5876] Profiling CUDA graph memory: PIECEWISE=51 (largest=512), FULL=51 (largest=512)
+(EngineCore pid=25149) INFO 04-28 14:22:23 [gpu_model_runner.py:5955] Estimated CUDA graph memory: 0.84 GiB total
+(EngineCore pid=25149) INFO 04-28 14:22:24 [gpu_worker.py:436] Available KV cache memory: 66.72 GiB
+(EngineCore pid=25149) INFO 04-28 14:22:24 [gpu_worker.py:470] In v0.19, CUDA graph memory profiling will be enabled by default (VLLM_MEMORY_PROFILER_ESTIMATE_CUDAGRAPHS=1), which more accurately accounts for CUDA graph memory during KV cache allocation. To try it now, set VLLM_MEMORY_PROFILER_ESTIMATE_CUDAGRAPHS=1 and increase --gpu-memory-utilization from 0.9000 to 0.9090 to maintain the same effective KV cache size.
+(EngineCore pid=25149) INFO 04-28 14:22:24 [kv_cache_utils.py:1319] GPU KV cache size: 546,592 tokens
+(EngineCore pid=25149) INFO 04-28 14:22:24 [kv_cache_utils.py:1324] Maximum concurrency for 40,000 tokens per request: 13.66x
+(EngineCore pid=25149) INFO 04-28 14:22:28 [gpu_model_runner.py:6046] Graph capturing finished in 4 secs, took 0.94 GiB
+(EngineCore pid=25149) INFO 04-28 14:22:28 [gpu_worker.py:597] CUDA graph pool memory: 0.94 GiB (actual), 0.84 GiB (estimated), difference: 0.1 GiB (10.8%).
+(EngineCore pid=25149) INFO 04-28 14:22:28 [core.py:283] init engine (profile, create kv cache, warmup model) took 23.58 seconds
+(EngineCore pid=25149) INFO 04-28 14:22:29 [vllm.py:790] Asynchronous scheduling is enabled.
+[+] Sample prompt (first 600 chars):
+<｜begin▁of▁sentence｜>You are an expert at locating and extracting exact definition spans from scientific text. You always quote the source verbatim.<｜User｜>You are given a scientific document and a specific technical term.
+Your task is to find and extract the EXACT definition of that term as it appears in the document.
+
+## Output Format (STRICT)
+- Return ONLY a valid JSON array.
+- Each element must be an object with exactly two keys:
+  - "term": the given term
+  - "definition": the full definition or explanation of that term
+- Do NOT include any extra text, comments, or explanations.
+- Do NOT 
+---
+(EngineCore pid=25149) INFO 04-28 14:22:42 [core.py:1210] Shutdown initiated (timeout=0)
+(EngineCore pid=25149) INFO 04-28 14:22:42 [core.py:1233] Shutdown complete
+[+] Inference complete (348 outputs)
+
+============================================================
+  EXPERIMENT 1 — Definition Span Extraction
+============================================================
+
+  [OVERALL]  n=348
+    exact_match               0.1810 ###
+    token_f1                  0.3822 #######
+    char_f1                   0.4702 #########
+    span_validity_rate        0.3649 #######
+    hallucination_rate        0.6351 ############
+    null_rate                 0.0000 
+
+  [EN]  n=177
+    exact_match               0.2203 ####
+    token_f1                  0.4245 ########
+    char_f1                   0.5020 ##########
+    span_validity_rate        0.4520 #########
+    hallucination_rate        0.5480 ##########
+    null_rate                 0.0000 
+
+  [TR]  n=171
+    exact_match               0.1404 ##
+    token_f1                  0.3384 ######
+    char_f1                   0.4372 ########
+    span_validity_rate        0.2749 #####
+    hallucination_rate        0.7251 ##############
+    null_rate                 0.0000 
+
+[+] Per-example results -> ../results/exp2/DeepSeek-R1-Distill-Llama-8B.json
+[+] Aggregate evaluation -> ../results/exp2/DeepSeek-R1-Distill-Llama-8B_eval.json

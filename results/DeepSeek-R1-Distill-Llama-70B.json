@@ -1,0 +1,7995 @@
+[
+  {
+    "id": 204,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 671,
+              "end": 681,
+              "text": "Yapay Zekâ",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "cb93910b77",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 236,
+              "end": 468,
+              "text": "Herhangi bir algoritmaya ihtiyaç duymadan kendi algoritmasını oluşturabilen, algoritmaları önceden öngörülemeyen ve kendi kararlarını verebilen, yani insan beyni ve davranışlarının birler ve sıfırlar sürümü gibi olan bir yazılımdır.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "d3f293c5ab",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "cb93910b77",
+            "to_id": "d3f293c5ab",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 587,
+              "end": 605,
+              "text": "Yapay Sinir Ağları",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "e5c071c273",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 526,
+              "end": 662,
+              "text": "1950’lerde tasarlanan ve insanın sinir sisteminden esinlenen, hesaplama programlarının yapay hücreleri olarak görülebilen bir tekniktir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "1ab1c63125",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "e5c071c273",
+            "to_id": "1ab1c63125",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 979,
+              "end": 992,
+              "text": "Deep Learning",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "302b21d7e0",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 979,
+              "end": 1042,
+              "text": "Deep learning methods that detect movement such as sliding etc.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "a0f5b8c42e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "302b21d7e0",
+            "to_id": "a0f5b8c42e",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 829,
+              "end": 842,
+              "text": "derin öğrenme",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "4ad2fbd14c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 890,
+              "end": 1056,
+              "text": "Kayma vb. hareketleri algılayan derin öğrenme yöntemleri performans değerlendirme kriterlerine göre değerlendirilecek ve en doğru sonuca sahip yöntem belirlenecektir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "cc398520b3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "4ad2fbd14c",
+            "to_id": "cc398520b3",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 1175,
+              "end": 1188,
+              "text": "Random Forest",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "45f8020f26",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1202,
+              "end": 1270,
+              "text": "An algorithm used to make crop recommendations based on soil values.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "607190b8a4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "45f8020f26",
+            "to_id": "607190b8a4",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 1190,
+              "end": 1198,
+              "text": "XG Boost",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "6d180afb07",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1202,
+              "end": 1270,
+              "text": "An algorithm used to make crop recommendations based on soil values.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "4b25219ac6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "6d180afb07",
+            "to_id": "4b25219ac6",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 1203,
+              "end": 1210,
+              "text": "Bagging",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "8d9dfaa390",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1202,
+              "end": 1270,
+              "text": "An algorithm used to make crop recommendations based on soil values.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "8a72437f73",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "8d9dfaa390",
+            "to_id": "8a72437f73",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 218,
+              "end": 245,
+              "text": "Hyperparameter Optimization",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "3096fa9523",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 252,
+              "end": 406,
+              "text": "The process of determining a set of values aimed at increasing accuracy in classification and prediction, and optimizing performance in feature selection.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "deba32d190",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "3096fa9523",
+            "to_id": "deba32d190",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 217,
+              "end": 246,
+              "text": "Hiper parametre optimizasyonu",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "4c5c833978",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 283,
+              "end": 365,
+              "text": "Doğruluğu artırmayı amaçlayan bir dizi değerlerin belirlenmesini içeren bir süreç.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "226a1519fe",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "4c5c833978",
+            "to_id": "226a1519fe",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 757,
+              "end": 780,
+              "text": "Optimization algorithms",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "2801f39b4d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 530,
+              "end": 659,
+              "text": "Algorithms used to assign weights to input parameters determining diseases in datasets, thereby improving clustering performance.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "362a43c344",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "2801f39b4d",
+            "to_id": "362a43c344",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 17,
+              "end": 33,
+              "text": "K-Means kümeleme",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "2a6d60c639",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 36,
+              "end": 210,
+              "text": "Veri kümeleme için yaygın olarak kullanılan bir yöntemdir, ancak büyük tıbbi verilerle çalışırken yerel optimuma takılmak ve yavaş yakınsama gibi sorunlarla karşılaşılabilir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "7c73ff071b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "2a6d60c639",
+            "to_id": "7c73ff071b",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 373,
+              "end": 388,
+              "text": "özellik çıkarma",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "14ca3b5352",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 259,
+              "end": 373,
+              "text": "Makine öğrenimi araştırmasında, sonar sinyallerini tanımlamak ve sınıflandırmak için kullanılan veri işleme adımı.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "f1c0e8199f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "14ca3b5352",
+            "to_id": "f1c0e8199f",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 695,
+              "end": 719,
+              "text": "Yapay Sinir Ağları (YSA)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "53e49e9828",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 695,
+              "end": 768,
+              "text": "Yapay sinir ağları (YSA) yöntemiyle matematiksel formül geliştirilmiştir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "e7a48c8bd1",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "53e49e9828",
+            "to_id": "e7a48c8bd1",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 591,
+              "end": 625,
+              "text": "convolutional neural network (CNN)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "242dd248f9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 589,
+              "end": 667,
+              "text": "A convolutional neural network (CNN) is designed to classify distorted images.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "2738257734",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "242dd248f9",
+            "to_id": "2738257734",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 140,
+              "end": 162,
+              "text": "Multicollinearity (MC)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "ce93518616",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 166,
+              "end": 260,
+              "text": "The presence of strong linear dependencies among independent variables, which poses a problem.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "e6f2dedca3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "ce93518616",
+            "to_id": "e6f2dedca3",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 232,
+              "end": 261,
+              "text": "Çoklu doğrusal bağlantı (ÇDB)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "238857469e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 263,
+              "end": 393,
+              "text": "Bağımsız değişkenler arasında bir ya da birden fazla kuvvetli doğrusal bağımlılık olma durumudur ve bir sorun olarak ortaya çıkar.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "7e6608f683",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "238857469e",
+            "to_id": "7e6608f683",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 321,
+              "end": 341,
+              "text": "Neural networks (NN)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "6a03da0e0a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 353,
+              "end": 511,
+              "text": "machine learning (ML) algorithms with a flexible structure that can define complex relationships and process large amounts of data for solar energy prediction",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "7d8ff1b9fb",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "6a03da0e0a",
+            "to_id": "7d8ff1b9fb",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 446,
+              "end": 467,
+              "text": "makine öğrenmesi (ML)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "4362723dc4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 352,
+              "end": 456,
+              "text": "karmaşık ilişkileri tanımlayabilen ve büyük miktarda veriyi işleyebilen esnek yapıya sahip algoritmalar.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "4f3b8d1633",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "4362723dc4",
+            "to_id": "4f3b8d1633",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 486,
+              "end": 500,
+              "text": "sinir ağı (NN)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "9268226cae",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 353,
+              "end": 477,
+              "text": "karmaşık ilişkileri tanımlayabilen ve büyük miktarda veriyi işleyebilen esnek yapıya sahip bir makine öğrenmesi algoritması.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "ef26256c10",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "9268226cae",
+            "to_id": "ef26256c10",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 17,
+              "end": 29,
+              "text": "Thresholding",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "373c70ab84",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 100,
+              "end": 227,
+              "text": "A technique used for segmentation of regions with different homogeneity in grayscale images, also preferred for colored images.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "f83866be6b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "373c70ab84",
+            "to_id": "f83866be6b",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 1010,
+              "end": 1026,
+              "text": "Otsu algoritması",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "09dd086ce9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 280,
+              "end": 352,
+              "text": "Gri ölçekli görüntüler üzerinde global eşikleme yapabilen bir algoritma.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "efe43ab481",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "09dd086ce9",
+            "to_id": "efe43ab481",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 500,
+              "end": 505,
+              "text": "t-SNE",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "6b1eb94013",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 976,
+              "end": 1036,
+              "text": "Yüksek boyutlu özellik görselleştirme veri gösterim tekniği.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "bd653334e8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "6b1eb94013",
+            "to_id": "bd653334e8",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 562,
+              "end": 592,
+              "text": "RNN (Recurrent Neural Network)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "520841d372",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 592,
+              "end": 616,
+              "text": "Derin öğrenme modelleri.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "57d11f6be2",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "520841d372",
+            "to_id": "57d11f6be2",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 555,
+              "end": 568,
+              "text": "deep learning",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "62e6100bfe",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 569,
+              "end": 622,
+              "text": "methods preferred when the data is large and complex.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "6725b8cadc",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "62e6100bfe",
+            "to_id": "6725b8cadc",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 551,
+              "end": 575,
+              "text": "derin öğrenme yöntemleri",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "561d264ca1",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 477,
+              "end": 574,
+              "text": "Yüz tanıma uygulamalarında, verilerin büyük ve karmaşık olması durumunda tercih edilen yöntemler.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "034d86f62e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "561d264ca1",
+            "to_id": "034d86f62e",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 488,
+              "end": 504,
+              "text": "Reclassification",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "fcc9b97b82",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1013,
+              "end": 1179,
+              "text": "The process of re-evaluating classifications using the weighted vote-based community classification algorithm with performance values from the classification process.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "f29bd62b37",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "fcc9b97b82",
+            "to_id": "f29bd62b37",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 501,
+              "end": 556,
+              "text": "ağırlıklı oy tabanlı topluluk sınıflandırma algoritması",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "e2d27192f6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 660,
+              "end": 834,
+              "text": "Birden fazla sınıflandırma algoritmasının ağırlıklı oylama yöntemi ile bir araya getirildiği ve her bir algoritmadan tek başına elde edilen sonucun iyileştirildiği algoritma.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "610d17d1cc",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "e2d27192f6",
+            "to_id": "610d17d1cc",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 674,
+              "end": 681,
+              "text": "önişlem",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "bad0a735e4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 752,
+              "end": 869,
+              "text": "Metin tabanlı verilerin 2-boyutlu barkod türlerine dönüştürülerek iki yeni veri kümesi elde edilmesini sağlayan adım.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "d8aa013903",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "bad0a735e4",
+            "to_id": "d8aa013903",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 301,
+              "end": 314,
+              "text": "Derin Öğrenme",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "b03abd5a67",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 300,
+              "end": 356,
+              "text": "Derin öğrenme tabanlı süper çözünürlük modeli (SISRGAN).",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "adfd76e04d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "b03abd5a67",
+            "to_id": "adfd76e04d",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 483,
+              "end": 517,
+              "text": "Artificial intelligence approaches",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "3ad1c08d6b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 528,
+              "end": 583,
+              "text": "Used for the diagnosis-treatment processes of diseases.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "4355bc3b5b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "3ad1c08d6b",
+            "to_id": "4355bc3b5b",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 1047,
+              "end": 1071,
+              "text": "Machine learning methods",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "b687f553f9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1077,
+              "end": 1137,
+              "text": "Used in the classification process of the proposed approach.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "827a2b6e9f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "b687f553f9",
+            "to_id": "827a2b6e9f",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 1151,
+              "end": 1179,
+              "text": "Feature selection algorithms",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "62e9ed661a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1185,
+              "end": 1248,
+              "text": "Used to improve the time-performance process of model training.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "1381b4ce56",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "62e9ed661a",
+            "to_id": "1381b4ce56",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 1001,
+              "end": 1037,
+              "text": "derin öğrenme modeli (Nasnet mobile)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "ab5426a061",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 854,
+              "end": 1021,
+              "text": "Önerilen yaklaşımda ön işlem adımı teknikleri kullanılarak orijinal görüntülerin gereksiz görülen kısımları geri planda bırakılarak eğitilmesini sağlayan bir modeldir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "97bb270956",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "ab5426a061",
+            "to_id": "97bb270956",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 1121,
+              "end": 1146,
+              "text": "makine öğrenme yöntemleri",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "d8fd3310b2",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1077,
+              "end": 1142,
+              "text": "Önerilen yaklaşımın sınıflandırma sürecinde kullanılan yöntemler.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "31aeb72a61",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "d8fd3310b2",
+            "to_id": "31aeb72a61",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 298,
+              "end": 327,
+              "text": "Convolutional neural networks",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "a0a93ff939",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 301,
+              "end": 424,
+              "text": "A part of deep learning that has been used frequently in the medical field thanks to its strong self-learning capabilities.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "7aeb085543",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "a0a93ff939",
+            "to_id": "7aeb085543",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 473,
+              "end": 504,
+              "text": "Depthwise separable convolution",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "1e6836928d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 527,
+              "end": 646,
+              "text": "A convolution technique that reduces the computational cost and the number of parameters for blood cell classification.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "e19fcf613a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "1e6836928d",
+            "to_id": "e19fcf613a",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 147,
+              "end": 163,
+              "text": "Makine öğrenmesi",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "1efe91b85f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 11,
+              "end": 116,
+              "text": "Ürün tasarımında analizlere ayrılan zamanın ve maliyetlerin önemli ölçüde azaltılmasında kilit rol oynar.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "e89b3e8382",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "1efe91b85f",
+            "to_id": "e89b3e8382",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 1176,
+              "end": 1204,
+              "text": "Çok Katmanlı Derin Sinir Ağı",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "23b9a52743",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1176,
+              "end": 1344,
+              "text": "Çok Katmanlı Derin Sinir Ağı yönteminin kimyasal tanker yakıt tüketimi tahmini problemi kapsamında ele alınan diğer yöntemlerden daha başarılı olduğu tespit edilmiştir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "836af3ff1e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "23b9a52743",
+            "to_id": "836af3ff1e",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 898,
+              "end": 916,
+              "text": "feature extraction",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "02b70ea3f2",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 886,
+              "end": 1017,
+              "text": "The process of performing feature extraction on histopathological images using multiple Convolutional Neural Networks (ESA) models.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "0fb5874349",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "02b70ea3f2",
+            "to_id": "0fb5874349",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 1196,
+              "end": 1210,
+              "text": "sınıflandırıcı",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "e85131d5b8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1081,
+              "end": 1213,
+              "text": "Hasta ve sağlıklı olmak üzere iki etiket sınıfına ayrılan verilerin karşılaştırıldığı derin öğrenme mimarileri ve sınıflandırıcılar.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "b4197ddb92",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "e85131d5b8",
+            "to_id": "b4197ddb92",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 111,
+              "end": 124,
+              "text": "Deep Learning",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "15bedeef13",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 519,
+              "end": 563,
+              "text": "Models used to extract features from images.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "ee92ad9269",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "15bedeef13",
+            "to_id": "ee92ad9269",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 794,
+              "end": 811,
+              "text": "ReliefF Algorithm",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "a3f70598fb",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 801,
+              "end": 841,
+              "text": "An algorithm used for feature selection.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "19da589c50",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "a3f70598fb",
+            "to_id": "19da589c50",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 907,
+              "end": 932,
+              "text": "Synthetic Data Generation",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "b565ce0ac5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 639,
+              "end": 818,
+              "text": "An approach used to overcome obstacles such as insufficient data access, legal regulations, ethical rules, confidentiality procedures, privacy, data sharing limitations, and cost.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "ec80bb3d69",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "b565ce0ac5",
+            "to_id": "ec80bb3d69",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 1314,
+              "end": 1323,
+              "text": "Crossover",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "2020df6b8f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1364,
+              "end": 1455,
+              "text": "A genetic operator used to produce artificial data in the dynamics of the original dataset.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "a71311d630",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "2020df6b8f",
+            "to_id": "a71311d630",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 1328,
+              "end": 1336,
+              "text": "Mutation",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "936df21539",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1364,
+              "end": 1455,
+              "text": "A genetic operator used to produce artificial data in the dynamics of the original dataset.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "4dd63b1a11",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "936df21539",
+            "to_id": "4dd63b1a11",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 1821,
+              "end": 1849,
+              "text": "Support Vector Machine (SVM)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "40f8b03b2a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1628,
+              "end": 1809,
+              "text": "A machine learning classifier used to measure the success of the similarity of artificial data to the original data, achieving a maximum sensitivity of 100% on the enriched dataset.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "993f0f88c7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "40f8b03b2a",
+            "to_id": "993f0f88c7",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 1628,
+              "end": 1656,
+              "text": "Machine Learning Classifiers",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "dae5040faf",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1654,
+              "end": 1760,
+              "text": "Algorithms used to measure the success of the similarity of artificial data produced to the original data.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "b44590efae",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "dae5040faf",
+            "to_id": "b44590efae",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 357,
+              "end": 368,
+              "text": "Data Mining",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "3fd2e387a8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 133,
+              "end": 230,
+              "text": "The process of identifying hidden patterns and extracting useful information from large datasets.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "973f40e8d2",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "3fd2e387a8",
+            "to_id": "973f40e8d2",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 340,
+              "end": 360,
+              "text": "Deep learning models",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "e5dee91eb7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 430,
+              "end": 619,
+              "text": "Models that can recognize complex patterns in motor data to identify potential faults in advance, allowing for timely intervention, extending motor life, and ensuring production continuity.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "856ad22526",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "e5dee91eb7",
+            "to_id": "856ad22526",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 747,
+              "end": 768,
+              "text": "Binary classification",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "03dd5c80bf",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 749,
+              "end": 858,
+              "text": "A classification method conducted based on images obtained from current signals using a pre-existing dataset.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "c48352fd2f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "03dd5c80bf",
+            "to_id": "c48352fd2f",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 935,
+              "end": 960,
+              "text": "Deep Neural Network (DNN)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "828185fc7d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 966,
+              "end": 1073,
+              "text": "A classification model used to assess the predictability of both honest and malicious consumption patterns.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "8bc97de48b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "828185fc7d",
+            "to_id": "8bc97de48b",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 329,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 341,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 572,
+              "end": 588,
+              "text": "Makine Öğrenmesi",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "a02d70b383",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 451,
+              "end": 571,
+              "text": "Yeni gelen verileri, olayı veya durumu tahmin etmek için matematiksel modelleri ve istatistiksel yöntemleri menggunakan.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "885726964a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "a02d70b383",
+            "to_id": "885726964a",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 342,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 882,
+              "end": 898,
+              "text": "machine learning",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "7b8a90539e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 900,
+              "end": 964,
+              "text": "whose applications have just begun in the laboratory environment",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "e439a3a46b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "7b8a90539e",
+            "to_id": "e439a3a46b",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 255,
+              "end": 282,
+              "text": "quantum adaptive algorithms",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "ad65882ae0",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 315,
+              "end": 408,
+              "text": "improve existing methods by taking advantage of artificial intelligence and quantum computing",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "28ef719da5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "ad65882ae0",
+            "to_id": "28ef719da5",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 343,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 133,
+              "end": 162,
+              "text": "Yapay Zeka (YZ) Algoritmaları",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "9c09cfe947",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 49,
+              "end": 283,
+              "text": "Kuantum bilgisayarların hafıza probleminin çözülmesinin, yaygın olarak kullanılacak yapay zeka (YZ) algoritmalarında çığır açıcı gelişmelere yol açarak her süreçleri, stratejiyi, ekonomiyi ve politikaları etkileyeceği savunulmaktadır.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "42488c8ae4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "9c09cfe947",
+            "to_id": "42488c8ae4",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 365,
+              "end": 396,
+              "text": "Kuantum Uyarlamalı Algoritmalar",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "d4334fc77c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 275,
+              "end": 377,
+              "text": "Yapay zeka ve kuantum bilişim teknolojisinden yararlanarak mevcut yöntemleri iyileştiren algoritmalar.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "722891b9e9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "d4334fc77c",
+            "to_id": "722891b9e9",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 344,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 773,
+              "end": 799,
+              "text": "Artificial neural networks",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "38d9e31df9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 804,
+              "end": 989,
+              "text": "A computational technique that uses high-specification knowledge in large data sets to help solve the problem that is being addressed and will contribute to the solution of the problem.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "09c0a3be03",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "38d9e31df9",
+            "to_id": "09c0a3be03",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 788,
+              "end": 806,
+              "text": "yapay sinir ağları",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "1ecfe081a6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 934,
+              "end": 1072,
+              "text": "Geniş veri kümelerinde yer alan ve problemin çözümüne katkı sağlayacak bilgi kazancı yüksek özellikleri kullanan bir hesaplama tekniğidir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "0076083cbd",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "1ecfe081a6",
+            "to_id": "0076083cbd",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 347,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 864,
+              "end": 880,
+              "text": "Makine öğrenmesi",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "bcc1ff1b5b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 820,
+              "end": 993,
+              "text": "Siber zorbalığı tespit etmek ve önlemek için kullanılan teknikleri gözden geçiren ve makine ile derin öğrenme modellerinin performanslarını değerlendiren bir dizi yöntemdir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "5a63e9bd22",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "bcc1ff1b5b",
+            "to_id": "5a63e9bd22",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 358,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 359,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 360,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 361,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 370,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 371,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 372,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 373,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 374,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 375,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 376,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 377,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 380,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 22,
+              "end": 35,
+              "text": "deep learning",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "c0b01b4107",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 42,
+              "end": 207,
+              "text": "A set of techniques used to solve artificial intelligence problems with deep learning architectures, known for powerful feature extraction and learning capabilities.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "6c7fb7d392",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "c0b01b4107",
+            "to_id": "6c7fb7d392",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 381,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 430,
+              "end": 454,
+              "text": "Derin öğrenme yöntemleri",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "3f1e07ac96",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 131,
+              "end": 242,
+              "text": "Güçlü özellik çıkarma ve öğrenme yetenekleri sebebiyle nesne tanıma işlemlerinde sıkça tercih edilen yöntemler.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "239a453697",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "3f1e07ac96",
+            "to_id": "239a453697",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 388,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 17,
+              "end": 30,
+              "text": "Deep Learning",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "0be8aa9b53",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 42,
+              "end": 133,
+              "text": "Specific Machine Learning methods that allow to extract knowledge from complex experiences.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "d550a20494",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "0be8aa9b53",
+            "to_id": "d550a20494",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 457,
+              "end": 503,
+              "text": "One-Dimensional Convolutional Network (1D-CNN)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "f0d66f64f4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 321,
+              "end": 447,
+              "text": "A model used to determine occupancy in an indoor space with changes in light, temperature, humidity, and CO2 values over time.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "9bc9814b50",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "f0d66f64f4",
+            "to_id": "9bc9814b50",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 17,
+              "end": 30,
+              "text": "Derin Öğrenme",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "ca58d82975",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 41,
+              "end": 136,
+              "text": "Kompleks deneyimlerden bilgi çıkarımına imkân sağlayan spesifik Makine Öğrenmesi yöntemleridir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "7b0a2437a8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "ca58d82975",
+            "to_id": "7b0a2437a8",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 390,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 391,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 262,
+              "end": 291,
+              "text": "Evrişimsel Sinir Ağları (ESA)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "7ab581d896",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 254,
+              "end": 300,
+              "text": "Alexnet Evrişimsel Sinir Ağları (ESA) mimarisi",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "3a0e1d5c3f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "7ab581d896",
+            "to_id": "3a0e1d5c3f",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 304,
+              "end": 344,
+              "text": "Bölgesel Evrişimsel Sinir Ağları (B-ESA)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "da38eb4ba4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 304,
+              "end": 356,
+              "text": "Bölgesel Evrişimsel Sinir Ağları (B-ESA) algoritması",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "1fb50b55d0",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "da38eb4ba4",
+            "to_id": "1fb50b55d0",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 398,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 399,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 402,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 404,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 405,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 408,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 409,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 17,
+              "end": 41,
+              "text": "Yapay Sinir Ağları (YSA)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "abd84775e4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 33,
+              "end": 178,
+              "text": "Günümüzde sinyal işleme, optimizasyon, tahmin, karar verme ve kontrol gibi birçok mühendislik alanında yoğun şekilde kullanılan bir teknolojidir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "4c6deb42b8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "abd84775e4",
+            "to_id": "4c6deb42b8",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 257,
+              "end": 284,
+              "text": "Transfer Fonksiyonları (TF)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "17442ec940",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 156,
+              "end": 255,
+              "text": "Yapay Sinir Ağları (YSA) yapılarının çalışmasını doğrudan etkileyen önemli bölümlerinden birisidir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "39c6563cc6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "17442ec940",
+            "to_id": "39c6563cc6",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 289,
+              "end": 320,
+              "text": "Doğrusal Olmayan TF Tasarımları",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "522f2d2814",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 280,
+              "end": 424,
+              "text": "Doğrusal olmayan Transfer Fonksiyonlarının gerçek zamanlı tasarımı, üstel fonksiyon içerdiğinden oldukça zor bir şekilde gerçekleştirilmektedir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "86fe1295a6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "522f2d2814",
+            "to_id": "86fe1295a6",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 410,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 411,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 412,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 413,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 414,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 415,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 743,
+              "end": 776,
+              "text": "k-en yakın komşu sınıflandırıcısı",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "93723a5e33",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 761,
+              "end": 901,
+              "text": "Veri tabanındaki kusurlu ve sağlam malzemelerin tespiti için 14 özellik kullanılarak eğitilmiş ve test edilmiş bir sınıflandırma yöntemidir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "fca28f0717",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "93723a5e33",
+            "to_id": "fca28f0717",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 420,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 51,
+              "end": 81,
+              "text": "Electroencephalography signals",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "8a63bdec21",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 63,
+              "end": 177,
+              "text": "Signals used in brain-computer interfaces to communicate between the human brain and computer or external devices.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "3d1d0d1d49",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "8a63bdec21",
+            "to_id": "3d1d0d1d49",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 424,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 425,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 426,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 427,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 430,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 526,
+              "end": 544,
+              "text": "U-Net-based system",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "3997af1804",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 549,
+              "end": 660,
+              "text": "A system used to automatically detect and classify areas of road and lane markings from high-resolution images.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "13dd7f1ee8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "3997af1804",
+            "to_id": "13dd7f1ee8",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 772,
+              "end": 792,
+              "text": "Pre-processing phase",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "e9fb228ad7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 784,
+              "end": 870,
+              "text": "A phase designed to include high-resolution images in the training of the U-Net model.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "fe9de615e0",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "e9fb228ad7",
+            "to_id": "fe9de615e0",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 431,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 613,
+              "end": 633,
+              "text": "U-Net tabanlı sistem",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "b91597303a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 478,
+              "end": 634,
+              "text": "Yüksek çözünürlüklü görüntülerden yol ve şerit işareti alanlarının tespitini ve sınıflandırmasını otomatik olarak gerçekleştiren bir derin öğrenme mimarisi.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "8904abce61",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "b91597303a",
+            "to_id": "8904abce61",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 852,
+              "end": 869,
+              "text": "Ön işlem adımları",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "67c06d153a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 757,
+              "end": 860,
+              "text": "Yüksek çözünürlüklü görüntülerin U-Net modelinin eğitimine dahil edilebilmesi için tasarlanan işlemler.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "a8eded0ab7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "67c06d153a",
+            "to_id": "a8eded0ab7",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 432,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 433,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 434,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 435,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 440,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 1465,
+              "end": 1473,
+              "text": "F1-score",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "dd8e79d147",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1465,
+              "end": 1546,
+              "text": "F1-score values were calculated for each class in the test set of the best model.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "14788f6b7f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "dd8e79d147",
+            "to_id": "14788f6b7f",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 441,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 450,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 251,
+              "end": 286,
+              "text": "Convolutional Neural Networks (CNN)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "d7256310ac",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 270,
+              "end": 332,
+              "text": "Neural networks that show superior performance in many fields.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "cc3d50180f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "d7256310ac",
+            "to_id": "cc3d50180f",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 451,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 614,
+              "end": 622,
+              "text": "ResNet50",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "409b7580d7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1136,
+              "end": 1208,
+              "text": "Performans karşılaştırmalarında en iyi performansı veren bir CNN modeli.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "3783a29e7c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "409b7580d7",
+            "to_id": "3783a29e7c",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 452,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 453,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 799,
+              "end": 814,
+              "text": "Roof-KSA Modeli",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "7a202b1136",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 544,
+              "end": 664,
+              "text": "Roof-KSA modeli, bina çatılarının semantik bölütlenmesi için az parametreye sahip bir Konvolüsyonel Sinir Ağı modelidir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "455fc68b9c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "7a202b1136",
+            "to_id": "455fc68b9c",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 454,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 455,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 456,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 457,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 460,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 461,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 803,
+              "end": 811,
+              "text": "ResNet50",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "00393d1e17",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 995,
+              "end": 1126,
+              "text": "Derin öğrenme metodu; eğitim doğruluğu %97.62, test doğruluğu %78.75, eğitim kaybı %0.1 ve test kaybı %6.28 olarak gerçekleşmiştir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "08b82a1030",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "00393d1e17",
+            "to_id": "08b82a1030",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 813,
+              "end": 824,
+              "text": "MobileNetV2",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "a05b7340c3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1121,
+              "end": 1253,
+              "text": "Derin öğrenme metodu; eğitim doğruluğu %97.8, test doğruluğu %48.12, eğitim kaybı %0.38 ve test kaybı %38.34 olarak gerçekleşmiştir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "917b89cda7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "a05b7340c3",
+            "to_id": "917b89cda7",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 462,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 463,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 464,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 465,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 466,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 467,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 468,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 469,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 784,
+              "end": 794,
+              "text": "yapay zekâ",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "02bedcf45a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 968,
+              "end": 1040,
+              "text": "Yapay zekânın bir alt kümesi olarak yapay sinir ağları kullanılmaktadır.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "bdab9be214",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "02bedcf45a",
+            "to_id": "bdab9be214",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 749,
+              "end": 783,
+              "text": "denetimli öğrenme yöntemine dayalı",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "ad31dec331",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 775,
+              "end": 934,
+              "text": "Yapay zekâ destekli PI denetleyicisi yardımıyla bir rüzgâr enerji dönüşüm sistemindeki yükselten DC-DC güç dönüştürücüsünün kontrol edilmesini sağlayan yöntem.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "eddf81d062",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "ad31dec331",
+            "to_id": "eddf81d062",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 472,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 473,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 474,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 475,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 476,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 477,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 478,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 479,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 480,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 481,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 484,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 485,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 486,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 487,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 645,
+              "end": 658,
+              "text": "Derin öğrenme",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "059e02522a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 332,
+              "end": 465,
+              "text": "Derin öğrenme alanındaki gelişmeler, stereo görüntüler kullanılarak derinlik elde edilmesi alanında yapılan çalışmaları etkilemiştir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "061abf1764",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "059e02522a",
+            "to_id": "061abf1764",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 667,
+              "end": 693,
+              "text": "Derinlik haritası düzeltme",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "cf03e82164",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 645,
+              "end": 812,
+              "text": "Derin öğrenme tabanlı derinlik haritası düzeltme işlemlerinde eşleşme maliyetleri üzerinden yapılan düzeltme işlemleri daha başarılı sonuçlar üretilmesini sağlamıştır.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "231f50f7da",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "cf03e82164",
+            "to_id": "231f50f7da",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 1093,
+              "end": 1102,
+              "text": "Ağ yapısı",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "4ba741498a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1004,
+              "end": 1116,
+              "text": "Çalışmada sadece sol görüntü ve derinlik haritası aracılığıyla düzeltme işlemi yapan bir ağ yapısı önerilmiştir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "569bbc6a66",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "4ba741498a",
+            "to_id": "569bbc6a66",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 503,
+              "end": 520,
+              "text": "Stereo eşleştirme",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "001ba0863e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 468,
+              "end": 644,
+              "text": "Son dönemde, derin öğrenme tabanlı stereo eşleştirme alanındaki çalışmalar daha çok derinlik (eşitsizlik) haritalarının elde edilmesi ve düzeltilmesi alanında yoğunlaşmaktadır.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "53f350cf8d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "001ba0863e",
+            "to_id": "53f350cf8d",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 490,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 491,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 498,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 499,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 500,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 501,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 504,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 505,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 506,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 507,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 508,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 929,
+              "end": 936,
+              "text": "Softmax",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "de4cb5f159",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1137,
+              "end": 1183,
+              "text": "A function used in the classification process.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "5b7cfcd273",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "de4cb5f159",
+            "to_id": "5b7cfcd273",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 509,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 574,
+              "end": 611,
+              "text": "yapay zekâ tabanlı erken tanı sistemi",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "e583ab2630",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 490,
+              "end": 582,
+              "text": "Meme kanserinin iyi huylu ve kötü huylu türleri arasında sınıflandırma yapabilen bir sistem.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "cdd374f6fd",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "e583ab2630",
+            "to_id": "cdd374f6fd",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 510,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 17,
+              "end": 33,
+              "text": "Machine learning",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "5d0b507759",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 45,
+              "end": 163,
+              "text": "Used for classification, clustering and prediction in the fields of health, media, banking and finance, and education.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "7b78f24102",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "5d0b507759",
+            "to_id": "7b78f24102",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 788,
+              "end": 803,
+              "text": "Hyperparameters",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "f481c10233",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 783,
+              "end": 896,
+              "text": "Parameters that affect the success of the established mathematical model, determined by the grid scanning method.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "9633532e79",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "f481c10233",
+            "to_id": "9633532e79",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 511,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 520,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 521,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 17,
+              "end": 33,
+              "text": "Makine öğrenmesi",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "c3c6915ddc",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 17,
+              "end": 233,
+              "text": "Makine öğrenmesi ve derin öğrenme yöntemleri, hiperspektral görüntülerin sınıflandırılmasında yüksek bir performans sergileyerek, görüntülerin daha hassas ve etkin bir şekilde sınıflandırılmasına olanak tanımaktadır.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "667e69ed8f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "c3c6915ddc",
+            "to_id": "667e69ed8f",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 37,
+              "end": 50,
+              "text": "Derin öğrenme",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "09d73bd119",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 17,
+              "end": 233,
+              "text": "Makine öğrenmesi ve derin öğrenme yöntemleri, hiperspektral görüntülerin sınıflandırılmasında yüksek bir performans sergileyerek, görüntülerin daha hassas ve etkin bir şekilde sınıflandırılmasına olanak tanımaktadır.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "ff562cbdf2",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "09d73bd119",
+            "to_id": "ff562cbdf2",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 522,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 523,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 524,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 525,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 528,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 1039,
+              "end": 1077,
+              "text": "Random Forest Classification Algorithm",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "9c3d6553d2",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1124,
+              "end": 1171,
+              "text": "A machine learning-based classification method.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "f690a6828e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "9c3d6553d2",
+            "to_id": "f690a6828e",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 1082,
+              "end": 1105,
+              "text": "Support Vector Machines",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "202757bf32",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1124,
+              "end": 1171,
+              "text": "A machine learning-based classification method.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "e074c39592",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "202757bf32",
+            "to_id": "e074c39592",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 529,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 953,
+              "end": 993,
+              "text": "Rastgele Orman Sınıflandırma Algoritması",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "e1fb0fecbc",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 893,
+              "end": 943,
+              "text": "Makine öğrenimi tabanlı bir sınıflandırma yöntemi.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "b9f930c344",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "e1fb0fecbc",
+            "to_id": "b9f930c344",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 997,
+              "end": 1021,
+              "text": "Destek Vektör Makineleri",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "b3fba344e9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 893,
+              "end": 943,
+              "text": "Makine öğrenimi tabanlı bir sınıflandırma yöntemi.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "7b3978026e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "b3fba344e9",
+            "to_id": "7b3978026e",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 534,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 535,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 536,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 537,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 538,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 207,
+              "end": 210,
+              "text": "SVM",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "bfccafdf39",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 212,
+              "end": 246,
+              "text": "Support Vector Machines classifier",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "243edae050",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "bfccafdf39",
+            "to_id": "243edae050",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 482,
+              "end": 485,
+              "text": "PCA",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "6a11ac0643",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 487,
+              "end": 515,
+              "text": "Principal Component Analysis",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "a6da8febdf",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "6a11ac0643",
+            "to_id": "a6da8febdf",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 539,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 542,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 262,
+              "end": 280,
+              "text": "Random Forest (RF)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "8e145f22bc",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 280,
+              "end": 339,
+              "text": "a machine learning algorithm used for image classification.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "c46763bac9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "8e145f22bc",
+            "to_id": "c46763bac9",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 543,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 544,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 545,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 546,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 547,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 548,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 1067,
+              "end": 1116,
+              "text": "Joint-Histogram Weighted Median Filter (JointWMF)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "9b85610bee",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 11779,
+              "end": 11938,
+              "text": "A filter technique that performs weighted median filtering on both the input image and its related histogram, useful for preserving image edges and structures.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "91d08aa7c3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "9b85610bee",
+            "to_id": "91d08aa7c3",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 12098,
+              "end": 12137,
+              "text": "Fast Global Image Smoother (FGS) Filter",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "0c13f56d60",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 12136,
+              "end": 12244,
+              "text": "An efficient edge-preserving smoothing method based on the WLS formulation, used for global image smoothing.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "102aea24ad",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "0c13f56d60",
+            "to_id": "102aea24ad",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 6293,
+              "end": 6314,
+              "text": "Bilateral Filter (BF)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "c859c09a83",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 12757,
+              "end": 12895,
+              "text": "A noniterative filter that smooths images while maintaining edges and small features by considering both spatial and intensity similarity.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "711f776d3d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "c859c09a83",
+            "to_id": "711f776d3d",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 549,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 550,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 551,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 552,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 1045,
+              "end": 1052,
+              "text": "TrainIm",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "dbe93003c6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1069,
+              "end": 1130,
+              "text": "The best training function with an overall accuracy of 86.3%.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "ebcebbf663",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "dbe93003c6",
+            "to_id": "ebcebbf663",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 553,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 1084,
+              "end": 1111,
+              "text": "Eğitim Fonksiyonu (Trainlm)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "b70e3572b1",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1023,
+              "end": 1097,
+              "text": "%86,3'lük genel doğruluk performansı elde edilen en iyi eğitim fonksiyonu.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "3f6af985f4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "b70e3572b1",
+            "to_id": "3f6af985f4",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 554,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 555,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 558,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 559,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 560,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 561,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 562,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 563,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 564,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 565,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 566,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 567,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 568,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 569,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 570,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 571,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 574,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 575,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 576,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 577,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 578,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 524,
+              "end": 549,
+              "text": "Fuzzy Inverse Logic (FIL)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "35cffd390d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 516,
+              "end": 660,
+              "text": "A new artificial intelligence method developed to determine or estimate the value of the input parameters that give the targeted problem output.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "c1e0071dd0",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "35cffd390d",
+            "to_id": "c1e0071dd0",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 579,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 585,
+              "end": 604,
+              "text": "bulanık ters mantık",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "d45fc92f4e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 458,
+              "end": 627,
+              "text": "Hedeflenen problem çıktısını veren girdi parametrelerinin değerinin ne olması gerektiğini belirlemek veya tahmin etmek amacıyla geliştirilen yeni bir yapay zeka yöntemi.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "4e5e8cf8bf",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "d45fc92f4e",
+            "to_id": "4e5e8cf8bf",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 582,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 583,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 588,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 589,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 590,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 591,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 388,
+              "end": 392,
+              "text": "ZNet",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "1b6dc02608",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 268,
+              "end": 307,
+              "text": "Önerilen yeni bir derin öğrenme modeli.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "cf8be92a86",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "1b6dc02608",
+            "to_id": "cf8be92a86",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 603,
+              "end": 612,
+              "text": "ResNet-50",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "edbed3aa5f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1058,
+              "end": 1091,
+              "text": "Derin öğrenme modellerinden biri.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "76ef352f30",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "edbed3aa5f",
+            "to_id": "76ef352f30",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 614,
+              "end": 620,
+              "text": "VGG-19",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "989f9ce4b3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1058,
+              "end": 1091,
+              "text": "Derin öğrenme modellerinden biri.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "97a1ce6773",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "989f9ce4b3",
+            "to_id": "97a1ce6773",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 622,
+              "end": 634,
+              "text": "EfficientNet",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "3bef8c8a55",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1058,
+              "end": 1091,
+              "text": "Derin öğrenme modellerinden biri.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "86e47e0389",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "3bef8c8a55",
+            "to_id": "86e47e0389",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 636,
+              "end": 644,
+              "text": "Densenet",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "7ad5063eef",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1058,
+              "end": 1091,
+              "text": "Derin öğrenme modellerinden biri.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "3004aa6316",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "7ad5063eef",
+            "to_id": "3004aa6316",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 646,
+              "end": 655,
+              "text": "Inception",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "3ac4e01313",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1058,
+              "end": 1091,
+              "text": "Derin öğrenme modellerinden biri.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "fcfb97f2be",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "3ac4e01313",
+            "to_id": "fcfb97f2be",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 657,
+              "end": 665,
+              "text": "Xception",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "0f68b11084",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1058,
+              "end": 1091,
+              "text": "Derin öğrenme modellerinden biri.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "2915c51db7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "0f68b11084",
+            "to_id": "2915c51db7",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 592,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 593,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 596,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 597,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 598,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 599,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 600,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 601,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 316,
+              "end": 336,
+              "text": "Dengesizlik problemi",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "234ddd8779",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 347,
+              "end": 410,
+              "text": "Bir sınıftan diğerine göre daha az örneğe sahip olma durumudur.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "92884b871a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "234ddd8779",
+            "to_id": "92884b871a",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 602,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 665,
+              "end": 697,
+              "text": "artificial neural networks (ANN)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "93aa28ecfe",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 555,
+              "end": 634,
+              "text": "a method used to predict regional congestions by using historical traffic data.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "7dae7afadc",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "93aa28ecfe",
+            "to_id": "7dae7afadc",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 603,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 606,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 801,
+              "end": 849,
+              "text": "Vehicle Routing Problem with Time Window (VRPTW)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "ee02204510",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 837,
+              "end": 941,
+              "text": "A problem aimed at determining routes with the lowest cost under specific time and capacity constraints.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "8ba87157ea",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "ee02204510",
+            "to_id": "8ba87157ea",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 607,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 608,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 609,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 104,
+              "end": 132,
+              "text": "Evrişimli Sinir Ağları (CNN)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "c6c2b802c3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 415,
+              "end": 549,
+              "text": "Zaman serisi verilerindeki uzun vadeli bağımlılıkları ve karmaşık özellikleri yakalama konusunda etkili bir derin öğrenme algoritması.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "903bf6856c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "c6c2b802c3",
+            "to_id": "903bf6856c",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 610,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 611,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 612,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 432,
+              "end": 460,
+              "text": "Convolutional neural network",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "7a1a87ed14",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 481,
+              "end": 559,
+              "text": "A deep learning method successfully applied in the detection of many diseases.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "263587a504",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "7a1a87ed14",
+            "to_id": "263587a504",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 575,
+              "end": 596,
+              "text": "Class activation maps",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "2cdc578e42",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 596,
+              "end": 791,
+              "text": "When trained with a convolutional neural network, distinctive regions of the image are colored according to their importance, so that the important regions for the target class can be determined.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "e82db1e704",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "2cdc578e42",
+            "to_id": "e82db1e704",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 613,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 630,
+              "end": 657,
+              "text": "Sınıf Aktivasyon Haritaları",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "3edcacb1ba",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 657,
+              "end": 818,
+              "text": "Evrişimsel sinir ağı ile eğitilirken, görüntünün ayırt edici bölgeleri önemine göre renklendirilir ve böylece hedef sınıfa yönelik önemli bölgeler tespit edilir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "614381f112",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "3edcacb1ba",
+            "to_id": "614381f112",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 1135,
+              "end": 1159,
+              "text": "Destek Vektör Makinaları",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "7c491ea9c5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1110,
+              "end": 1216,
+              "text": "Elde edilen öznitelikler bu makinalar ile sınıflandırılarak %95.44 doğruluk oranı ile sınıflandırılmıştır.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "2ec9cc266f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "7c491ea9c5",
+            "to_id": "2ec9cc266f",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 616,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 617,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 618,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 619,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 620,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 621,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 622,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 333,
+              "end": 385,
+              "text": "Non-Dominated Sorting Genetic Algorithm II (NSGA-II)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "f6e16ed122",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 277,
+              "end": 332,
+              "text": "A multi-objective metaheuristic optimization algorithm.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "1b0ca3b2f3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "f6e16ed122",
+            "to_id": "1b0ca3b2f3",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 623,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 624,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 625,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 628,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 629,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 630,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 631,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 632,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 581,
+              "end": 595,
+              "text": "Neural Network",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "16f609beb1",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 579,
+              "end": 715,
+              "text": "A neural network based on attention mechanisms using the BI-LSTM layer in conjunction with Temporal-CNN for the classification of crops.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "ce7c74e764",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "16f609beb1",
+            "to_id": "ce7c74e764",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 633,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 638,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 639,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 934,
+              "end": 944,
+              "text": "yapay zekâ",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "d0436d5c47",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 844,
+              "end": 960,
+              "text": "Risk Yönetimi alanında olası kayıpların azaltılması ve/veya bertaraf edilmesi konusunda kullanılan bir teknolojidir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "f29642bebb",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "d0436d5c47",
+            "to_id": "f29642bebb",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 1422,
+              "end": 1452,
+              "text": "Modern Bütünleşik Afet Yönetim",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "a4ffe197e3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1339,
+              "end": 1501,
+              "text": "Sürdürülebilir, uzun vadede etkin, çok paydaşlı ve disiplinler arası nitelikte afet yönetiminde Bilgi ve İletişim Teknolojileri (BİT) kullanımını içeren süreçtir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "43806e355f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "a4ffe197e3",
+            "to_id": "43806e355f",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 640,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 641,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 1521,
+              "end": 1543,
+              "text": "Güvenlik Algoritmaları",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "0c2c955906",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1471,
+              "end": 1685,
+              "text": "Teknolojik açıdan yapay zeka ile geliştirilmiş ve güvenlik algoritmaların uygulandığı saldırı tespit ve önlemek sistemleri kullanılarak sistemler ve uygulamaların güvenliği arttırılması gerektiği analiz edilmiştir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "946996c4cb",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "0c2c955906",
+            "to_id": "946996c4cb",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 1558,
+              "end": 1593,
+              "text": "Saldırı Tespit ve Önleme Sistemleri",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "353c9d7916",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1471,
+              "end": 1685,
+              "text": "Teknolojik açıdan yapay zeka ile geliştirilmiş ve güvenlik algoritmaların uygulandığı saldırı tespit ve önlemek sistemleri kullanılarak sistemler ve uygulamaların güvenliği arttırılması gerektiği analiz edilmiştir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "2df855d460",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "353c9d7916",
+            "to_id": "2df855d460",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 642,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 441,
+              "end": 467,
+              "text": "Artificial Neural Networks",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "066e72fee4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 488,
+              "end": 550,
+              "text": "a tool for predicting the capacity status of Li-ion batteries.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "4b83392130",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "066e72fee4",
+            "to_id": "4b83392130",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 643,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 320,
+              "end": 338,
+              "text": "Yapay Sinir Ağları",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "d83650447f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 396,
+              "end": 563,
+              "text": "Çeşitli girdi verilerine dayanarak tahminler yapabilme yeteneğine sahip bir araçtır ve Li-ion bataryaların kapasite durumu tahmini yapmak için de kullanılabilmektedir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "bdd6ab840e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "d83650447f",
+            "to_id": "bdd6ab840e",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 752,
+              "end": 764,
+              "text": "Veri Toplama",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "2dc4ce83a6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 694,
+              "end": 779,
+              "text": "Li-ion bataryaların kapasite durumunun tahmini için veri toplama aşaması işlenmiştir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "858bad4424",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "2dc4ce83a6",
+            "to_id": "858bad4424",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 646,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 647,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 648,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 21,
+              "end": 57,
+              "text": "Generative Adversarial Network (GAN)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "ba38828d33",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 71,
+              "end": 157,
+              "text": "A generative deep learning model consisting of generator and discriminator structures.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "ae5a3ceab3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "ba38828d33",
+            "to_id": "ae5a3ceab3",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 649,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 650,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 651,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 652,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 653,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 656,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 657,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 658,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 659,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 660,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 661,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 1079,
+              "end": 1097,
+              "text": "Elman Sinir Ağları",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "5a0a4d541c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1079,
+              "end": 1217,
+              "text": "Elman Sinir Ağları temel alınarak geliştirilen model ile batarya şarj durumu %1'den daha düşük bir hata seviyesinde tahmin edilebilmiştir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "62dda4ab0e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "5a0a4d541c",
+            "to_id": "62dda4ab0e",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 662,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 663,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 666,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 806,
+              "end": 819,
+              "text": "Decision Tree",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "90c7c74135",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 10971,
+              "end": 11160,
+              "text": "A predictive model that allows data sets to be split into smaller data sets, consisting of internal nodes that determine the split criteria and leaf nodes where the results are represented.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "472d1e6853",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "90c7c74135",
+            "to_id": "472d1e6853",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 667,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 668,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 669,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 260,
+              "end": 289,
+              "text": "ortalama kaydırma algoritması",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "6191a9e2bd",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 300,
+              "end": 615,
+              "text": "Gözetimsiz bir sınıflandırma yöntemi olan ortalama kaydırma algoritmasının temel amacı verilerin benzerlikleri gözetilerek farklı sınıflara ayrılması olsa bile, kümeleme verilerin mekânsal uzaydaki mesafe ilişkileri gözetilerek tamamlandığında oluşan küme merkezlerinin veriye uyarlı dağılımda olduğu görülmektedir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "4dafc34248",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "6191a9e2bd",
+            "to_id": "4dafc34248",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 301,
+              "end": 333,
+              "text": "gözetimsiz sınıflandırma yöntemi",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "2deb8c2858",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 383,
+              "end": 468,
+              "text": "Verilerin benzerlikleri gözetilerek farklı sınıflara ayrılmasını sağlayan bir yöntem.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "bc0085a82d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "2deb8c2858",
+            "to_id": "bc0085a82d",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 461,
+              "end": 469,
+              "text": "kümeleme",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "c441c229af",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 468,
+              "end": 538,
+              "text": "Verilerin mekânsal uzaydaki mesafe ilişkileri gözetilerek gruplanması.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "52f53d7ceb",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "c441c229af",
+            "to_id": "52f53d7ceb",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 670,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 288,
+              "end": 315,
+              "text": "Gated Recurrent Units (GRU)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "e6e55ea4ab",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 356,
+              "end": 452,
+              "text": "A type of Recurrent Neural Network (RNN) based algorithm used for wheat productivity estimation.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "6a3cbba7d4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "e6e55ea4ab",
+            "to_id": "6a3cbba7d4",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 671,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 674,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 675,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 676,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 677,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 911,
+              "end": 946,
+              "text": "LightGBM makine öğrenme algoritması",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "f12e05902b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 779,
+              "end": 1019,
+              "text": "Sinergise firmasının Amazon Web Servis (AWS) içerisindeki sunucularında bulunan açık kaynak kodlu EO-Learn kütüphanesi içerisindeki LightGBM makine öğrenme algoritması kullanılarak yapılmış olup % 86,07 genel doğruluk değerine ulaşılmıştır.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "adb43bc247",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "f12e05902b",
+            "to_id": "adb43bc247",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 680,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 681,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 688,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 689,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 690,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 691,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 692,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 1158,
+              "end": 1171,
+              "text": "Deep Learning",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "532214e467",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 763,
+              "end": 862,
+              "text": "A method used to categorize web pages into four main groups: tourism, machinery, music, and sports.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "8f1b03aa29",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "532214e467",
+            "to_id": "8f1b03aa29",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 940,
+              "end": 973,
+              "text": "Stochastic Gradient Descent (SGD)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "ee8cd31858",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 952,
+              "end": 1125,
+              "text": "An optimization method that, when utilized, achieved an accuracy of 0.9737, a recall of 0.9474, an F1 score of 0.9474, and an Area Under the ROC Curve (AUC) value of 0.9649.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "f9232a24f6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "ee8cd31858",
+            "to_id": "f9232a24f6",
+            "type": "relation",
+            "direction": "right"
+          },
+          {
+            "value": {
+              "start": 1158,
+              "end": 1176,
+              "text": "Deep Learning (DL)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "a9390b18f9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1177,
+              "end": 1322,
+              "text": "Led to achieving the most advanced results in web page classification within the existing literature, particularly on the WebScreenshots dataset.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "118967b5f4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "a9390b18f9",
+            "to_id": "118967b5f4",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 693,
+    "predictions": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 1131,
+              "end": 1149,
+              "text": "Derin Öğrenme (DL)",
+              "labels": [
+                "TERM"
+              ]
+            },
+            "id": "25c7cf14af",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "value": {
+              "start": 1156,
+              "end": 1307,
+              "text": "Web sayfası sınıflandırmasında, özellikle WebScreenshots veri kümesinde, mevcut literatürdeki en iyi sonuçların elde edilmesini sağlayan bir yöntemdir.",
+              "labels": [
+                "DEFINITION"
+              ]
+            },
+            "id": "8d17108e21",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "prediction"
+          },
+          {
+            "from_id": "25c7cf14af",
+            "to_id": "8d17108e21",
+            "type": "relation",
+            "direction": "right"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 694,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 695,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 698,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  },
+  {
+    "id": 699,
+    "predictions": [
+      {
+        "result": []
+      }
+    ]
+  }
+]

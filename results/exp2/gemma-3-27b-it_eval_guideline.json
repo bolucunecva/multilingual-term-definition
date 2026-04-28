@@ -1,0 +1,31 @@
+{
+  "overall": {
+    "n_examples": 348,
+    "exact_match": 0.4109,
+    "token_f1": 0.6811,
+    "char_f1": 0.7206,
+    "span_validity_rate": 0.9339,
+    "hallucination_rate": 0.0413,
+    "null_rate": 0.0259
+  },
+  "per_language": {
+    "en": {
+      "n_examples": 177,
+      "exact_match": 0.4633,
+      "token_f1": 0.7033,
+      "char_f1": 0.7627,
+      "span_validity_rate": 0.9548,
+      "hallucination_rate": 0.0452,
+      "null_rate": 0.0
+    },
+    "tr": {
+      "n_examples": 171,
+      "exact_match": 0.3567,
+      "token_f1": 0.658,
+      "char_f1": 0.6769,
+      "span_validity_rate": 0.9123,
+      "hallucination_rate": 0.037,
+      "null_rate": 0.0526
+    }
+  }
+}
