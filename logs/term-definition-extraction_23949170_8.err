@@ -1,0 +1,32 @@
+Traceback (most recent call last):
+  File "/scratch3/bol107/multilingual-term-definition/experiments/run_experiment.py", line 99, in <module>
+    main()
+  File "/scratch3/bol107/multilingual-term-definition/experiments/run_experiment.py", line 41, in main
+    extractor = Extractor(
+                ^^^^^^^^^^
+  File "/scratch3/bol107/multilingual-term-definition/experiments/inference.py", line 19, in __init__
+    self.llm = LLM(
+               ^^^^
+  File "/scratch3/bol107/necva_env/lib/python3.11/site-packages/vllm/entrypoints/llm.py", line 382, in __init__
+    self.llm_engine = LLMEngine.from_engine_args(
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch3/bol107/necva_env/lib/python3.11/site-packages/vllm/v1/engine/llm_engine.py", line 169, in from_engine_args
+    vllm_config = engine_args.create_engine_config(usage_context)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch3/bol107/necva_env/lib/python3.11/site-packages/vllm/engine/arg_utils.py", line 1549, in create_engine_config
+    model_config = self.create_model_config()
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch3/bol107/necva_env/lib/python3.11/site-packages/vllm/engine/arg_utils.py", line 1398, in create_model_config
+    return ModelConfig(
+           ^^^^^^^^^^^^
+  File "/scratch3/bol107/necva_env/lib/python3.11/site-packages/pydantic/_internal/_dataclasses.py", line 121, in __init__
+    s.__pydantic_validator__.validate_python(ArgsKwargs(args, kwargs), self_instance=s)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for ModelConfig
+  Value error, Invalid repository ID or local directory specified: '../../models/DeepSeek-R1-Distill-Qwen-32B'.
+Please verify the following requirements:
+1. Provide a valid Hugging Face repository ID.
+2. Specify a local directory that contains a recognized configuration file.
+   - For Hugging Face models: ensure the presence of a 'config.json'.
+   - For Mistral models: ensure the presence of a 'params.json'.
+ [type=value_error, input_value=ArgsKwargs((), {'model': ...nderer_num_workers': 1}), input_type=ArgsKwargs]
+    For further information visit https://errors.pydantic.dev/2.13/v/value_error
