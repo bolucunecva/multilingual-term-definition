@@ -15,3 +15,5 @@ INFO 04-28 13:45:06 [compilation.py:292] Enabled custom fusions: allreduce_rms
 (Worker pid=2762) WARNING 04-28 13:45:58 [symm_mem.py:106] SymmMemCommunicator: symmetric memory multicast operations are not supported.
 (Worker pid=2761) INFO 04-28 13:45:58 [parallel_state.py:1716] rank 0 in world size 2 is assigned as DP rank 0, PP rank 0, PCP rank 0, TP rank 0, EP rank N/A, EPLB rank N/A
 (Worker_TP0 pid=2761) INFO 04-28 13:45:59 [gpu_model_runner.py:4735] Starting to load model ../../models/DeepSeek-R1-Distill-Qwen-14B...
+(Worker_TP0 pid=2761) INFO 04-28 13:45:59 [cuda.py:334] Using FLASH_ATTN attention backend out of potential backends: ['FLASH_ATTN', 'FLASHINFER', 'TRITON_ATTN', 'FLEX_ATTENTION'].
+(Worker_TP0 pid=2761) INFO 04-28 13:45:59 [flash_attn.py:596] Using FlashAttention version 3
