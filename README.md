@@ -63,9 +63,6 @@ MULDER contains English and Turkish machine learning abstracts with human-annota
 | Gold term-definition pairs | 348 |
 | English annotations | 177 |
 | Turkish annotations | 171 |
-| Abstracts with at least one pair | ~48% |
-| Inter-annotator agreement before adjudication | 0.985 |
-| Inter-annotator agreement after adjudication | 0.99 |
 
 ### ArXiv Augmentation Dataset
 
