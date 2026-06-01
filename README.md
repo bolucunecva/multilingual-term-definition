@@ -22,14 +22,16 @@ The dataset and benchmark are designed to study how term-definition structures c
 - evaluation of open-source LLMs for scientific information extraction.
 
 ```text
-Scientific abstract
+Scientific Publications
+        │
+        ▼
+Retrieved abstract(s) for given query
         │
         ▼
 Term-definition extraction
         │
         ├── Term span
         ├── Definition span
-        └── Cross-lingual context link
         │
         ▼
 Concept-aware scientific retrieval
