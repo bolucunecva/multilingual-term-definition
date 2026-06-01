@@ -216,46 +216,13 @@ Exp5 evaluates extraction from relevant retrieved contexts. Exp6 evaluates hallu
 
 ```text
 .
-├── data/
-│   ├── mulder/
-│   └── arxiv_augmentation/
+├── dataset/
+│   ├── mulder_dataset.json
+│   └── arxiv_dataset.json
 │
-├── prompts/
-│   ├── exp1_joint_extraction.txt
-│   ├── exp2_target_definition.txt
-│   ├── exp3_multilingual_joint.txt
-│   ├── exp4_multilingual_target.txt
-│   ├── exp5_retrieval_augmented.txt
-│   └── exp6_irrelevant_context.txt
 │
-├── scripts/
-│   ├── run_exp1.py
-│   ├── run_exp2.py
-│   ├── run_exp3.py
-│   ├── run_exp4.py
-│   ├── run_exp5.py
-│   └── run_exp6.py
-│
-├── evaluation/
-│   ├── normalize.py
-│   ├── term_definition_f1.py
-│   ├── exact_match.py
-│   └── hallucination_metrics.py
-│
-├── results/
-│   ├── exp1_results.csv
-│   ├── exp2_results.csv
-│   ├── exp3_results.csv
-│   ├── exp4_results.csv
-│   ├── exp5_results.csv
-│   └── exp6_results.csv
-│
-├── docs/
-│   ├── index.md
-│   └── assets/
-│       ├── mulder_example.png
-│       ├── pipeline.png
-│       └── results_summary.png
+├── experiments/
+│   ├── run_experiments.py
 │
 ├── requirements.txt
 └── README.md
@@ -268,59 +235,23 @@ Exp5 evaluates extraction from relevant retrieved contexts. Exp6 evaluates hallu
 ### Installation
 
 ```bash
-conda create -n mulder python=3.10
+conda create -n mulder python=3.12
 conda activate mulder
 pip install -r requirements.txt
 ```
 
-### Run Joint Term-Definition Extraction
+### Run Experiments
 
 ```bash
-python scripts/run_exp1.py \
-  --data data/mulder/test.jsonl \
-  --model MODEL_NAME \
-  --output results/exp1_MODEL_NAME.jsonl
-```
-
-### Run Target-Term Definition Extraction
-
-```bash
-python scripts/run_exp2.py \
-  --data data/mulder/target_terms.jsonl \
-  --model MODEL_NAME \
-  --output results/exp2_MODEL_NAME.jsonl
-```
-
-### Run Multilingual Extraction
-
-```bash
-python scripts/run_exp3.py \
-  --data data/mulder/multilingual_pairs.jsonl \
-  --model MODEL_NAME \
-  --output results/exp3_MODEL_NAME.jsonl
-```
-
-### Run Retrieval-Augmented Extraction
-
-```bash
-python scripts/run_exp5.py \
-  --data data/arxiv_augmentation/retrieved_contexts.jsonl \
-  --model MODEL_NAME \
-  --output results/exp5_MODEL_NAME.jsonl
-```
-
-### Evaluate Outputs
-
-```bash
-python evaluation/term_definition_f1.py \
-  --gold data/mulder/gold.jsonl \
-  --pred results/exp1_MODEL_NAME.jsonl
-```
-
-```bash
-python evaluation/hallucination_metrics.py \
-  --gold data/arxiv_augmentation/irrelevant_contexts.jsonl \
-  --pred results/exp6_MODEL_NAME.jsonl
+python run_experiments.py \
+    --model                  $LOCAL_MODEL \
+    --data                   ../dataset/all_experiments.json \
+    --arxiv_data             ../dataset/arxiv_experiments.json \
+    --outdir                 results/$LOCAL_MODEL \
+    --exps                   1\ # 1 or 2 or 3 or 4 or 5 or 6
+    --guideline              "../guideline.md" \
+    --gpu_memory_utilization 0.95 \
+    --max_model_len          10000
 ```
 
 ---
