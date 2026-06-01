@@ -221,7 +221,7 @@ Exp5 evaluates extraction from relevant retrieved contexts. Exp6 evaluates hallu
 │
 │
 ├── experiments/
-│   ├── run_experiments.py
+│   └── run_experiments.py
 │
 ├── requirements.txt
 └── README.md
