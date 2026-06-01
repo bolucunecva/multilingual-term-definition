@@ -255,57 +255,6 @@ python run_experiments.py \
 
 ---
 
-## Data Format
-
-### Joint Term-Definition Extraction
-
-```json
-{
-  "id": "mulder-en-001",
-  "language": "en",
-  "abstract": "...",
-  "term_definition_pairs": [
-    {
-      "term": "Decision Tree",
-      "definition": "a supervised learning algorithm used for classification and regression"
-    }
-  ]
-}
-```
-
-### Multilingual Context
-
-```json
-{
-  "id": "mulder-en-001",
-  "language": "en",
-  "abstract": "...",
-  "aligned_language": "tr",
-  "aligned_abstract": "...",
-  "term_definition_pairs": []
-}
-```
-
-### Retrieval-Augmented Context
-
-```json
-{
-  "target_term": "attention mechanism",
-  "retrieved_abstracts": [
-    "...",
-    "...",
-    "...",
-    "...",
-    "..."
-  ],
-  "gold_definitions": [
-    "..."
-  ]
-}
-```
-
----
-
 ## Metrics
 
 | Metric | Used In | Description |
